@@ -1,0 +1,912 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<AlteryxDocument yxmdVer="11.7">
+  <Nodes>
+    <Node ToolID="16">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.MacroInput.MacroInput">
+        <Position x="54" y="318" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <UseFileInput value="False" />
+          <Name>Input Data</Name>
+          <Abbrev>I</Abbrev>
+          <ShowFieldMap value="False" />
+          <Optional value="False" />
+          <TextInput>
+            <Configuration>
+              <NumRows value="19" />
+              <Fields>
+                <Field name="Numeric Data" />
+              </Fields>
+              <Data>
+                <r>
+                  <c>42</c>
+                </r>
+                <r>
+                  <c>79</c>
+                </r>
+                <r>
+                  <c>86</c>
+                </r>
+                <r>
+                  <c>85</c>
+                </r>
+                <r>
+                  <c>35</c>
+                </r>
+                <r>
+                  <c>27</c>
+                </r>
+                <r>
+                  <c>87</c>
+                </r>
+                <r>
+                  <c>7</c>
+                </r>
+                <r>
+                  <c>25</c>
+                </r>
+                <r>
+                  <c>84</c>
+                </r>
+                <r>
+                  <c>85</c>
+                </r>
+                <r>
+                  <c>44</c>
+                </r>
+                <r>
+                  <c>124</c>
+                </r>
+                <r>
+                  <c>25</c>
+                </r>
+                <r>
+                  <c>83</c>
+                </r>
+                <r>
+                  <c>85</c>
+                </r>
+                <r>
+                  <c>84</c>
+                </r>
+                <r>
+                  <c>31</c>
+                </r>
+                <r>
+                  <c>40</c>
+                </r>
+              </Data>
+            </Configuration>
+          </TextInput>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name>Text Input (1)</Name>
+          <DefaultAnnotationText />
+          <Left value="True" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Numeric Data" source="TextInput:" type="Byte" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMacroInput" />
+    </Node>
+    <Node ToolID="14">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="894" y="330" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="True">
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Left_iqr" selected="True" rename="IQR" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Left">
+          <RecordInfo>
+            <Field name="Median" source="Summarize: Median - X_IQR_DATA" type="Double" />
+            <Field name="Q1" source="Summarize: Percentile - X_IQR_DATA" type="Double" />
+            <Field name="Q3" source="Summarize: Percentile - X_IQR_DATA" type="Double" />
+            <Field name="iqr" source="Formula: [q3]-[Q1]" type="Double" />
+            <Field name="Upper Fence" source="Formula: [Q3] + (1.5 * [iqr])" type="Double" />
+            <Field name="Lower Fence" source="Formula: [Q1] - (1.5 * iqr)" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="Join">
+          <RecordInfo>
+            <Field name="Median" source="Summarize: Median - X_IQR_DATA" type="Double" />
+            <Field name="Q1" source="Summarize: Percentile - X_IQR_DATA" type="Double" />
+            <Field name="Q3" source="Summarize: Percentile - X_IQR_DATA" type="Double" />
+            <Field name="IQR" source="Formula: [q3]-[Q1]" type="Double" />
+            <Field name="Upper Fence" source="Formula: [Q3] + (1.5 * [iqr])" type="Double" />
+            <Field name="Lower Fence" source="Formula: [Q1] - (1.5 * iqr)" type="Double" />
+            <Field name="Mean" source="Summarize: Avg - X_IQR_DATA" type="Double" />
+            <Field name="StdDev" source="Summarize: StdDev - X_IQR_DATA" type="Double" />
+            <Field name="Lower Limit 1" source="Formula: [Avg_x_IQR_DATA] - [StdDev_x_IQR_DATA]" type="Double" />
+            <Field name="Upper Limit 1" source="Formula: [Avg_x_IQR_DATA] + [StdDev_x_IQR_DATA]" type="Double" />
+            <Field name="Lower Limit 2" source="Formula: [Avg_x_IQR_DATA] - 2 * [StdDev_x_IQR_DATA]" type="Double" />
+            <Field name="Upper Limit 2" source="Formula: [Avg_x_IQR_DATA] + 2 * [StdDev_x_IQR_DATA]" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="Right">
+          <RecordInfo>
+            <Field name="Mean" source="Summarize: Avg - X_IQR_DATA" type="Double" />
+            <Field name="StdDev" source="Summarize: StdDev - X_IQR_DATA" type="Double" />
+            <Field name="Lower Limit 1" source="Formula: [Avg_x_IQR_DATA] - [StdDev_x_IQR_DATA]" type="Double" />
+            <Field name="Upper Limit 1" source="Formula: [Avg_x_IQR_DATA] + [StdDev_x_IQR_DATA]" type="Double" />
+            <Field name="Lower Limit 2" source="Formula: [Avg_x_IQR_DATA] - 2 * [StdDev_x_IQR_DATA]" type="Double" />
+            <Field name="Upper Limit 2" source="Formula: [Avg_x_IQR_DATA] + 2 * [StdDev_x_IQR_DATA]" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="15">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Questions.Tab.Tab">
+        <Position x="0" y="0" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="17">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.MacroOutput.MacroOutput">
+        <Position x="1206" y="330" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Name>Outlier Limits</Name>
+          <Abbrev>O</Abbrev>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMacroOutput" />
+    </Node>
+    <Node ToolID="18">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="162" y="318" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Numeric Data" selected="True" rename="X_IQR_DATA" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="X_IQR_DATA" source="TextInput:" type="Byte" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="22">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Questions.LabelGroup.LabelGroup">
+        <Position x="0" y="0" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="23">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Questions.Label.Label">
+        <Position x="0" y="0" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="24">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Questions.Label.Label">
+        <Position x="0" y="0" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="25">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Questions.Label.Label">
+        <Position x="0" y="0" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="26">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Questions.Label.Label">
+        <Position x="0" y="0" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="27">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Questions.Label.Label">
+        <Position x="0" y="0" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="28">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Questions.LabelGroup.LabelGroup">
+        <Position x="0" y="0" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="29">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Questions.Label.Label">
+        <Position x="0" y="0" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="30">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Questions.Label.Label">
+        <Position x="0" y="0" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="34">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Questions.ControlParam.ControlParam">
+        <Position x="150" y="54" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="35">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Action.Action">
+        <Position x="162" y="162" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="38">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AppendFields.AppendFields">
+        <Position x="1002" y="318" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <CartesianMode>Error</CartesianMode>
+          <SelectConfiguration>
+            <Configuration outputConnection="Output">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="what field am i" size="5" source="TextInput:" type="String" />
+            <Field name="Median" source="Summarize: Median - X_IQR_DATA" type="Double" />
+            <Field name="Q1" source="Summarize: Percentile - X_IQR_DATA" type="Double" />
+            <Field name="Q3" source="Summarize: Percentile - X_IQR_DATA" type="Double" />
+            <Field name="IQR" source="Formula: [q3]-[Q1]" type="Double" />
+            <Field name="Upper Fence" source="Formula: [Q3] + (1.5 * [iqr])" type="Double" />
+            <Field name="Lower Fence" source="Formula: [Q1] - (1.5 * iqr)" type="Double" />
+            <Field name="Mean" source="Summarize: Avg - X_IQR_DATA" type="Double" />
+            <Field name="StdDev" source="Summarize: StdDev - X_IQR_DATA" type="Double" />
+            <Field name="Lower Limit 1" source="Formula: [Avg_x_IQR_DATA] - [StdDev_x_IQR_DATA]" type="Double" />
+            <Field name="Upper Limit 1" source="Formula: [Avg_x_IQR_DATA] + [StdDev_x_IQR_DATA]" type="Double" />
+            <Field name="Lower Limit 2" source="Formula: [Avg_x_IQR_DATA] - 2 * [StdDev_x_IQR_DATA]" type="Double" />
+            <Field name="Upper Limit 2" source="Formula: [Avg_x_IQR_DATA] + 2 * [StdDev_x_IQR_DATA]" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxAppendFields" />
+    </Node>
+    <Node ToolID="39">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+        <Position x="354" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <NumRows value="1" />
+          <Fields>
+            <Field name="what field am i" />
+          </Fields>
+          <Data>
+            <r>
+              <c>dummy</c>
+            </r>
+          </Data>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="what field am i" size="5" source="TextInput:" type="String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+    </Node>
+    <Node ToolID="40">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Action.Action">
+        <Position x="252" y="120" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="20">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="368" y="289" width="463" height="190" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>Calculate Fences (IQR)</Caption>
+          <Style TextColor="#314c4a" FillColor="#8064a8" BorderColor="#314c4a" Transparency="75" Margin="10" />
+          <Disabled value="False" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="3">
+          <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+            <Position x="378" y="318" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <SummarizeFields>
+                <SummarizeField field="X_IQR_DATA" action="Median" rename="Median_X_IQR_DATA" />
+                <SummarizeField field="X_IQR_DATA" action="Percentile" rename="Q1">
+                  <Percentile value="0.25" />
+                </SummarizeField>
+                <SummarizeField field="X_IQR_DATA" action="Percentile" rename="Q3">
+                  <Percentile value="0.75" />
+                </SummarizeField>
+              </SummarizeFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="Median_X_IQR_DATA" source="Summarize: Median - X_IQR_DATA" type="Double" />
+                <Field name="Q1" source="Summarize: Percentile - X_IQR_DATA" type="Double" />
+                <Field name="Q3" source="Summarize: Percentile - X_IQR_DATA" type="Double" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+        </Node>
+        <Node ToolID="13">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+            <Position x="762" y="318" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Median_X_IQR_DATA" selected="True" rename="Median" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="Median" source="Summarize: Median - X_IQR_DATA" type="Double" />
+                <Field name="Q1" source="Summarize: Percentile - X_IQR_DATA" type="Double" />
+                <Field name="Q3" source="Summarize: Percentile - X_IQR_DATA" type="Double" />
+                <Field name="iqr" source="Formula: [q3]-[Q1]" type="Double" />
+                <Field name="Upper Fence" source="Formula: [Q3] + (1.5 * [iqr])" type="Double" />
+                <Field name="Lower Fence" source="Formula: [Q1] - (1.5 * iqr)" type="Double" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+        </Node>
+        <Node ToolID="33">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+            <Position x="558" y="318" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FormulaFields>
+                <FormulaField expression="[q3]-[Q1]" field="iqr" size="8" type="Double" />
+                <FormulaField expression="[Q3] + (1.5 * [iqr])" field="Upper Fence" size="8" type="Double" />
+                <FormulaField expression="[Q1] - (1.5 * iqr)" field="Lower Fence" size="8" type="Double" />
+              </FormulaFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>iqr = [q3]-[Q1]
+Upper Fence = [Q3] + (1.5 * [iqr])
+Lower Fence = [Q1] - (1.5 * i...</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="Median_X_IQR_DATA" source="Summarize: Median - X_IQR_DATA" type="Double" />
+                <Field name="Q1" source="Summarize: Percentile - X_IQR_DATA" type="Double" />
+                <Field name="Q3" source="Summarize: Percentile - X_IQR_DATA" type="Double" />
+                <Field name="iqr" source="Formula: [q3]-[Q1]" type="Double" />
+                <Field name="Upper Fence" source="Formula: [Q3] + (1.5 * [iqr])" type="Double" />
+                <Field name="Lower Fence" source="Formula: [Q1] - (1.5 * iqr)" type="Double" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+        </Node>
+      </ChildNodes>
+    </Node>
+    <Node ToolID="21">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="378" y="558" width="283" height="205" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>Calculate StdDev</Caption>
+          <Style TextColor="#314c4a" FillColor="#0094a9" BorderColor="#314c4a" Transparency="75" Margin="10" />
+          <Disabled value="False" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="10">
+          <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+            <Position x="388" y="587" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <SummarizeFields>
+                <SummarizeField field="x_IQR_DATA" action="Avg" rename="Avg_x_IQR_DATA" />
+                <SummarizeField field="x_IQR_DATA" action="StdDev" rename="StdDev_x_IQR_DATA" />
+              </SummarizeFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="Avg_x_IQR_DATA" source="Summarize: Avg - X_IQR_DATA" type="Double" />
+                <Field name="StdDev_x_IQR_DATA" source="Summarize: StdDev - X_IQR_DATA" type="Double" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+        </Node>
+        <Node ToolID="11">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+            <Position x="486" y="587" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FormulaFields>
+                <FormulaField expression="[Avg_x_IQR_DATA] - [StdDev_x_IQR_DATA]" field="Lower Limit 1" size="8" type="Double" />
+                <FormulaField expression="[Avg_x_IQR_DATA] + [StdDev_x_IQR_DATA]" field="Upper Limit 1" size="8" type="Double" />
+                <FormulaField expression="[Avg_x_IQR_DATA] - 2 * [StdDev_x_IQR_DATA]" field="Lower Limit 2" size="8" type="Double" />
+                <FormulaField expression="[Avg_x_IQR_DATA] + 2 * [StdDev_x_IQR_DATA]" field="Upper Limit 2" size="8" type="Double" />
+              </FormulaFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>Lower Limit 1 = [Avg_x_IQR_DATA] - [StdDev_x_IQR_DATA]
+Upper Limit 1 = [Avg_x_IQ...</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="Avg_x_IQR_DATA" source="Summarize: Avg - X_IQR_DATA" type="Double" />
+                <Field name="StdDev_x_IQR_DATA" source="Summarize: StdDev - X_IQR_DATA" type="Double" />
+                <Field name="Lower Limit 1" source="Formula: [Avg_x_IQR_DATA] - [StdDev_x_IQR_DATA]" type="Double" />
+                <Field name="Upper Limit 1" source="Formula: [Avg_x_IQR_DATA] + [StdDev_x_IQR_DATA]" type="Double" />
+                <Field name="Lower Limit 2" source="Formula: [Avg_x_IQR_DATA] - 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                <Field name="Upper Limit 2" source="Formula: [Avg_x_IQR_DATA] + 2 * [StdDev_x_IQR_DATA]" type="Double" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+        </Node>
+        <Node ToolID="12">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+            <Position x="592" y="587" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Avg_x_IQR_DATA" selected="True" rename="Mean" />
+                <SelectField field="StdDev_x_IQR_DATA" selected="True" rename="StdDev" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="Mean" source="Summarize: Avg - X_IQR_DATA" type="Double" />
+                <Field name="StdDev" source="Summarize: StdDev - X_IQR_DATA" type="Double" />
+                <Field name="Lower Limit 1" source="Formula: [Avg_x_IQR_DATA] - [StdDev_x_IQR_DATA]" type="Double" />
+                <Field name="Upper Limit 1" source="Formula: [Avg_x_IQR_DATA] + [StdDev_x_IQR_DATA]" type="Double" />
+                <Field name="Lower Limit 2" source="Formula: [Avg_x_IQR_DATA] - 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                <Field name="Upper Limit 2" source="Formula: [Avg_x_IQR_DATA] + 2 * [StdDev_x_IQR_DATA]" type="Double" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+        </Node>
+      </ChildNodes>
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="16" Connection="Output" />
+      <Destination ToolID="18" Connection="Input" />
+    </Connection>
+    <Connection name="#2">
+      <Origin ToolID="35" Connection="Action" />
+      <Destination ToolID="18" Connection="Action" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="14" Connection="Join" />
+      <Destination ToolID="38" Connection="Source" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="39" Connection="Output" />
+      <Destination ToolID="38" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="18" Connection="Output" />
+      <Destination ToolID="10" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="18" Connection="Output" />
+      <Destination ToolID="3" Connection="Input" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="34" Connection="Question" />
+      <Destination ToolID="35" Connection="Question" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="34" Connection="Question" />
+      <Destination ToolID="40" Connection="Question" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="38" Connection="Output" />
+      <Destination ToolID="17" Connection="Input" />
+    </Connection>
+    <Connection name="#2">
+      <Origin ToolID="40" Connection="Action" />
+      <Destination ToolID="39" Connection="Action" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="33" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="13" Connection="Output" />
+      <Destination ToolID="14" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="12" Connection="Output" />
+      <Destination ToolID="14" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="33" Connection="Output" />
+      <Destination ToolID="13" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="10" Connection="Output" />
+      <Destination ToolID="11" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="11" Connection="Output" />
+      <Destination ToolID="12" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="False" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <Constants>
+      <Constant>
+        <Namespace>Question</Namespace>
+        <Name>ControlParam.Control Parameter (34)</Name>
+        <Value />
+        <IsNumeric value="False" />
+      </Constant>
+    </Constants>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Identify Outliers (BATCH)</Name>
+      <Description>This macro will aid in the identification of outliers within numeric data fields.  The Oultier (O) anchor produces Upper &amp; Lower Fences which you can append to your Data (D) anchor for filtering after the macro.  In addition to the IQR method for identifying outliers, standard deviation calculations are also provided.</Description>
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+    </MetaInfo>
+    <Events>
+      <Enabled value="False" />
+    </Events>
+    <RuntimeProperties>
+      <Actions>
+        <NoCondition>
+          <Type>NoCondition</Type>
+          <Description>(Always Run)</Description>
+          <True>
+            <Action>
+              <Type>UpdateValue</Type>
+              <Description />
+              <ToolId value="35" />
+              <Mode>Simple</Mode>
+              <Variable />
+              <Replace value="False" />
+              <Destination>18/SelectFields/SelectField[@field='Numeric Data']/@field</Destination>
+            </Action>
+            <Action>
+              <Type>UpdateValue</Type>
+              <Description />
+              <ToolId value="40" />
+              <Mode>Simple</Mode>
+              <Variable />
+              <Replace value="False" />
+              <Destination>39/Data/r/c</Destination>
+            </Action>
+          </True>
+        </NoCondition>
+      </Actions>
+      <Questions>
+        <Question>
+          <Type>Tab</Type>
+          <Description>Configuration</Description>
+          <Name>Tab (15)</Name>
+          <ToolId value="15" />
+          <Questions>
+            <Question>
+              <Type>MacroOutput</Type>
+              <Description>Macro Output (17)</Description>
+              <Name>Macro Output (17)</Name>
+              <ToolId value="17" />
+            </Question>
+            <Question>
+              <Type>LabelGroup</Type>
+              <Description>IQR: Inter-Quartile-Range Calculation</Description>
+              <Name>LabelGroup (22)</Name>
+              <ToolId value="22" />
+              <Questions>
+                <Question>
+                  <Type>Label</Type>
+                  <Description>Q1 = Quartile 1</Description>
+                  <Name>Label (23)</Name>
+                  <ToolId value="23" />
+                </Question>
+                <Question>
+                  <Type>Label</Type>
+                  <Description>Q3 = Quartile 3</Description>
+                  <Name>Label (24)</Name>
+                  <ToolId value="24" />
+                </Question>
+                <Question>
+                  <Type>Label</Type>
+                  <Description>IQR = Q3 - Q1</Description>
+                  <Name>Label (25)</Name>
+                  <ToolId value="25" />
+                </Question>
+                <Question>
+                  <Type>Label</Type>
+                  <Description>Upper Limit = Q3 + (1.5 * IQR)</Description>
+                  <Name>Label (26)</Name>
+                  <ToolId value="26" />
+                </Question>
+                <Question>
+                  <Type>Label</Type>
+                  <Description>Lower Limit = Q1 - (1.5 * IQR)</Description>
+                  <Name>Label (27)</Name>
+                  <ToolId value="27" />
+                </Question>
+              </Questions>
+            </Question>
+            <Question>
+              <Type>LabelGroup</Type>
+              <Description>Standard Deviation</Description>
+              <Name>LabelGroup (28)</Name>
+              <ToolId value="28" />
+              <Questions>
+                <Question>
+                  <Type>Label</Type>
+                  <Description>1 Standard Deviation = 68.27%</Description>
+                  <Name>Label (29)</Name>
+                  <ToolId value="29" />
+                </Question>
+                <Question>
+                  <Type>Label</Type>
+                  <Description>2 Standard Deviations = 95.45%</Description>
+                  <Name>Label (30)</Name>
+                  <ToolId value="30" />
+                </Question>
+              </Questions>
+            </Question>
+            <Question>
+              <Type>MacroInput</Type>
+              <Description>Macro Input (16)</Description>
+              <Name>Macro Input (16)</Name>
+              <ToolId value="16" />
+            </Question>
+            <Question>
+              <Type>ControlParam</Type>
+              <Description>Control Parameter (34)</Description>
+              <Name>Control Parameter (34)</Name>
+              <ToolId value="34" />
+            </Question>
+          </Questions>
+        </Question>
+      </Questions>
+      <ModuleType>Macro</ModuleType>
+      <MacroCustomHelp value="False" />
+      <MacroDynamicOutputFields value="False" />
+      <MacroImage>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</MacroImage>
+      <MacroInputs />
+      <MacroOutputs />
+      <BatchMacro>
+        <OutputMode>AutoByName</OutputMode>
+        <ControlParams>
+          <ControlParam>
+            <Name>Control Parameter (34)</Name>
+            <Description>Control Parameter (34)</Description>
+          </ControlParam>
+        </ControlParams>
+      </BatchMacro>
+      <Wiz_CustomHelp value="False" />
+      <Wiz_CustomGraphic value="False" />
+      <Wiz_ShowOutput value="True" />
+      <Wiz_OpenOutputTools />
+      <Wiz_OutputMessage />
+      <Wiz_NoOutputFilesMessage />
+      <Wiz_ChainRunWizard />
+    </RuntimeProperties>
+  </Properties>
+</AlteryxDocument>

@@ -1,0 +1,3546 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="11.7">
+  <Nodes>
+    <Node ToolID="73">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Questions.Tab.Tab">
+        <Position x="0" y="0" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="86">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Questions.LabelGroup.LabelGroup">
+        <Position x="0" y="0" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="88">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Questions.LabelGroup.LabelGroup">
+        <Position x="0" y="0" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="109">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Questions.LabelGroup.LabelGroup">
+        <Position x="0" y="0" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="110">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Questions.Label.Label">
+        <Position x="0" y="0" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="111">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Questions.LabelGroup.LabelGroup">
+        <Position x="0" y="0" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="112">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Questions.Label.Label">
+        <Position x="0" y="0" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="113">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Questions.Label.Label">
+        <Position x="0" y="0" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="115">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Questions.Label.Label">
+        <Position x="0" y="0" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="116">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Questions.Label.Label">
+        <Position x="0" y="0" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="117">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Questions.LabelGroup.LabelGroup">
+        <Position x="0" y="0" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="118">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Questions.Label.Label">
+        <Position x="0" y="0" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="119">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Questions.Label.Label">
+        <Position x="0" y="0" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="120">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Questions.Label.Label">
+        <Position x="0" y="0" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="121">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Questions.Tab.Tab">
+        <Position x="0" y="0" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="81">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="188" y="54" width="1944" height="273" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>Macro Interface Controls</Caption>
+          <Style TextColor="#314c4a" FillColor="#0094a9" BorderColor="#314c4a" Transparency="75" Margin="10" />
+          <Disabled value="False" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="79">
+          <GuiSettings Plugin="AlteryxGuiToolkit.Questions.DropDownListBox.ListBox">
+            <Position x="198" y="85.00117" width="59" height="59" />
+          </GuiSettings>
+          <Properties>
+            <Configuration />
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+        </Node>
+        <Node ToolID="80">
+          <GuiSettings Plugin="AlteryxGuiToolkit.Action.Action">
+            <Position x="210" y="250.9997" width="59" height="59" />
+          </GuiSettings>
+          <Properties>
+            <Configuration />
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+        </Node>
+        <Node ToolID="84">
+          <GuiSettings Plugin="AlteryxGuiToolkit.Questions.RadioButtonGroup.RadioButtonGroup">
+            <Position x="1146" y="155" width="59" height="59" />
+          </GuiSettings>
+          <Properties>
+            <Configuration />
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+        </Node>
+        <Node ToolID="85">
+          <GuiSettings Plugin="AlteryxGuiToolkit.Questions.RadioButtonGroup.RadioButtonGroup">
+            <Position x="1146" y="83.00018" width="59" height="59" />
+          </GuiSettings>
+          <Properties>
+            <Configuration />
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+        </Node>
+        <Node ToolID="87">
+          <GuiSettings Plugin="AlteryxGuiToolkit.Action.Action">
+            <Position x="1158" y="251.0001" width="59" height="59" />
+          </GuiSettings>
+          <Properties>
+            <Configuration />
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+        </Node>
+        <Node ToolID="89">
+          <GuiSettings Plugin="AlteryxGuiToolkit.Questions.RadioButtonGroup.RadioButtonGroup">
+            <Position x="1533" y="83" width="59" height="59" />
+          </GuiSettings>
+          <Properties>
+            <Configuration />
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+        </Node>
+        <Node ToolID="90">
+          <GuiSettings Plugin="AlteryxGuiToolkit.Action.Action">
+            <Position x="1545" y="251" width="59" height="59" />
+          </GuiSettings>
+          <Properties>
+            <Configuration />
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+        </Node>
+        <Node ToolID="91">
+          <GuiSettings Plugin="AlteryxGuiToolkit.Questions.DropDownListBox.DropDown">
+            <Position x="1710" y="131" width="59" height="59" />
+          </GuiSettings>
+          <Properties>
+            <Configuration />
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+        </Node>
+        <Node ToolID="98">
+          <GuiSettings Plugin="AlteryxGuiToolkit.Action.Action">
+            <Position x="1698" y="258" width="59" height="59" />
+          </GuiSettings>
+          <Properties>
+            <Configuration />
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+        </Node>
+        <Node ToolID="99">
+          <GuiSettings Plugin="AlteryxGuiToolkit.Questions.RadioButtonGroup.RadioButtonGroup">
+            <Position x="1398" y="89.99998" width="59" height="59" />
+          </GuiSettings>
+          <Properties>
+            <Configuration />
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+        </Node>
+        <Node ToolID="105">
+          <GuiSettings Plugin="AlteryxGuiToolkit.Action.Action">
+            <Position x="1830" y="246" width="59" height="59" />
+          </GuiSettings>
+          <Properties>
+            <Configuration />
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+        </Node>
+        <Node ToolID="106">
+          <GuiSettings Plugin="AlteryxGuiToolkit.Action.Action">
+            <Position x="1986" y="246" width="59" height="59" />
+          </GuiSettings>
+          <Properties>
+            <Configuration />
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+        </Node>
+      </ChildNodes>
+    </Node>
+    <Node ToolID="78">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="54" y="410.4997" width="3136" height="1355.5" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>Modify Outlier Macro Process</Caption>
+          <Style TextColor="#314c4a" FillColor="#8064a8" BorderColor="#314c4a" Transparency="75" Margin="10" />
+          <Disabled value="False" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="77">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.MacroOutput.MacroOutput">
+            <Position x="2418" y="1518" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Name>Field Metrics</Name>
+              <Abbrev>F</Abbrev>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMacroOutput" />
+        </Node>
+        <Node ToolID="74">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.MacroInput.MacroInput">
+            <Position x="97.00024" y="607.5008" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <UseFileInput value="False" />
+              <Name>Input74</Name>
+              <Abbrev />
+              <ShowFieldMap value="False" />
+              <Optional value="False" />
+              <TextInput>
+                <Configuration>
+                  <NumRows value="11" />
+                  <Fields>
+                    <Field name="QCity" />
+                    <Field name="QLand Area" />
+                    <Field name="QHouseholds with Under 18" />
+                    <Field name="QPopulation Density" />
+                    <Field name="QTotal Families" />
+                    <Field name="QTotal Pawdacity Sales" />
+                    <Field name="Q2010 Census" />
+                  </Fields>
+                  <Data>
+                    <r>
+                      <c>Buffalo</c>
+                      <c>3116</c>
+                      <c>746</c>
+                      <c>2</c>
+                      <c>1820</c>
+                      <c>185328</c>
+                      <c>4585</c>
+                    </r>
+                    <r>
+                      <c>Casper</c>
+                      <c>3894</c>
+                      <c>7788</c>
+                      <c>11</c>
+                      <c>8756</c>
+                      <c>317736</c>
+                      <c>35316</c>
+                    </r>
+                    <r>
+                      <c>Cheyenne</c>
+                      <c>1500</c>
+                      <c>7158</c>
+                      <c>20</c>
+                      <c>14613</c>
+                      <c>917892</c>
+                      <c>59466</c>
+                    </r>
+                    <r>
+                      <c>Cody</c>
+                      <c>2999</c>
+                      <c>1403</c>
+                      <c>2</c>
+                      <c>3516</c>
+                      <c>218376</c>
+                      <c>9520</c>
+                    </r>
+                    <r>
+                      <c>Douglas</c>
+                      <c>1829</c>
+                      <c>832</c>
+                      <c>1</c>
+                      <c>1744</c>
+                      <c>208008</c>
+                      <c>6120</c>
+                    </r>
+                    <r>
+                      <c>Evanston</c>
+                      <c>999</c>
+                      <c>1486</c>
+                      <c>5</c>
+                      <c>2713</c>
+                      <c>283824</c>
+                      <c>12359</c>
+                    </r>
+                    <r>
+                      <c>Gillette</c>
+                      <c>2749</c>
+                      <c>4052</c>
+                      <c>6</c>
+                      <c>7189</c>
+                      <c>543132</c>
+                      <c>29087</c>
+                    </r>
+                    <r>
+                      <c>Powell</c>
+                      <c>2674</c>
+                      <c>1251</c>
+                      <c>2</c>
+                      <c>3134</c>
+                      <c>233928</c>
+                      <c>6314</c>
+                    </r>
+                    <r>
+                      <c>Riverton</c>
+                      <c>4797</c>
+                      <c>2680</c>
+                      <c>2</c>
+                      <c>5556</c>
+                      <c>303264</c>
+                      <c>10615</c>
+                    </r>
+                    <r>
+                      <c>Rock Springs</c>
+                      <c>6620</c>
+                      <c>4022</c>
+                      <c>3</c>
+                      <c>7572</c>
+                      <c>253584</c>
+                      <c>23036</c>
+                    </r>
+                    <r>
+                      <c>Sheridan</c>
+                      <c>1894</c>
+                      <c>2646</c>
+                      <c>9</c>
+                      <c>6040</c>
+                      <c>308232</c>
+                      <c>17444</c>
+                    </r>
+                  </Data>
+                </Configuration>
+              </TextInput>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name>Text Input (1)</Name>
+              <DefaultAnnotationText />
+              <Left value="True" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="QCity" size="12" source="TextInput:" type="String" />
+                <Field name="QLand Area" source="TextInput:" type="Int16" />
+                <Field name="QHouseholds with Under 18" source="TextInput:" type="Int16" />
+                <Field name="QPopulation Density" source="TextInput:" type="Byte" />
+                <Field name="QTotal Families" source="TextInput:" type="Int16" />
+                <Field name="QTotal Pawdacity Sales" source="TextInput:" type="Int32" />
+                <Field name="Q2010 Census" source="TextInput:" type="Int32" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMacroInput" />
+        </Node>
+        <Node ToolID="45">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+            <Position x="2913" y="451.5002" />
+          </GuiSettings>
+          <Properties>
+            <Configuration joinByRecordPos="False">
+              <JoinInfo connection="Left">
+                <Field field="WRecordID" />
+              </JoinInfo>
+              <JoinInfo connection="Right">
+                <Field field="WRecordID" />
+              </JoinInfo>
+              <SelectConfiguration>
+                <Configuration outputConnection="Join">
+                  <OrderChanged value="False" />
+                  <CommaDecimal value="False" />
+                  <SelectFields>
+                    <SelectField field="Left_WRecordID" selected="False" />
+                    <SelectField field="Right_WRecordID" selected="False" />
+                    <SelectField field="*Unknown" selected="True" />
+                  </SelectFields>
+                </Configuration>
+              </SelectConfiguration>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Left">
+              <RecordInfo>
+                <Field name="WRecordID" source="RecordID: Starting Value=1" type="Int32" />
+                <Field name="QCity" size="12" source="TextInput:" type="String" />
+                <Field name="QLand Area" source="TextInput:" type="Int16" />
+                <Field name="QHouseholds with Under 18" source="TextInput:" type="Int16" />
+                <Field name="QPopulation Density" source="TextInput:" type="Byte" />
+                <Field name="QTotal Families" source="TextInput:" type="Int16" />
+                <Field name="QTotal Pawdacity Sales" source="TextInput:" type="Int32" />
+                <Field name="Q2010 Census" source="TextInput:" type="Int32" />
+              </RecordInfo>
+              <SortInfo noProgress="True">
+                <Field field="WRecordID" />
+              </SortInfo>
+            </MetaInfo>
+            <MetaInfo connection="Join">
+              <RecordInfo>
+                <Field name="QCity" size="12" source="TextInput:" type="String" />
+                <Field name="QLand Area" source="TextInput:" type="Int16" />
+                <Field name="QHouseholds with Under 18" source="TextInput:" type="Int16" />
+                <Field name="QPopulation Density" source="TextInput:" type="Byte" />
+                <Field name="QTotal Families" source="TextInput:" type="Int16" />
+                <Field name="QTotal Pawdacity Sales" source="TextInput:" type="Int32" />
+                <Field name="Q2010 Census" source="TextInput:" type="Int32" />
+                <Field name="IQR Outlier Ind" source="Formula: toNumber([Value]) &gt; [Upper Fence] OR &#xA;toNumber([Value]) &lt; [Lower Fence]" type="Bool" />
+                <Field name="StdDev 1 Outlier Ind" source="Formula: toNumber([Value]) &gt; [Upper Limit 1] or &#xA;toNumber([Value]) &lt; [Lower Limit 1]" type="Bool" />
+                <Field name="StdDev 2 Outlier Ind" source="Formula: toNumber([Value]) &gt; [Upper Limit 2] or &#xA;toNumber([Value]) &lt; [Lower Limit 2]" type="Bool" />
+              </RecordInfo>
+            </MetaInfo>
+            <MetaInfo connection="Right">
+              <RecordInfo>
+                <Field name="WRecordID" source="Summarize: GroupBy - WRecordID" type="Int32" />
+                <Field name="IQR Outlier Ind" source="Formula: toNumber([Value]) &gt; [Upper Fence] OR &#xA;toNumber([Value]) &lt; [Lower Fence]" type="Bool" />
+                <Field name="StdDev 1 Outlier Ind" source="Formula: toNumber([Value]) &gt; [Upper Limit 1] or &#xA;toNumber([Value]) &lt; [Lower Limit 1]" type="Bool" />
+                <Field name="StdDev 2 Outlier Ind" source="Formula: toNumber([Value]) &gt; [Upper Limit 2] or &#xA;toNumber([Value]) &lt; [Lower Limit 2]" type="Bool" />
+              </RecordInfo>
+              <SortInfo noProgress="True">
+                <Field field="WRecordID" />
+              </SortInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+        </Node>
+        <Node ToolID="49">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.RecordID.RecordID">
+            <Position x="1821" y="439.4997" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FieldName>WRecordID</FieldName>
+              <StartValue>1</StartValue>
+              <FieldType>Int32</FieldType>
+              <FieldSize>6</FieldSize>
+              <Position>0</Position>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="WRecordID" source="RecordID: Starting Value=1" type="Int32" />
+                <Field name="QCity" size="12" source="TextInput:" type="String" />
+                <Field name="QLand Area" source="TextInput:" type="Int16" />
+                <Field name="QHouseholds with Under 18" source="TextInput:" type="Int16" />
+                <Field name="QPopulation Density" source="TextInput:" type="Byte" />
+                <Field name="QTotal Families" source="TextInput:" type="Int16" />
+                <Field name="QTotal Pawdacity Sales" source="TextInput:" type="Int32" />
+                <Field name="Q2010 Census" source="TextInput:" type="Int32" />
+              </RecordInfo>
+              <SortInfo>
+                <Field field="WRecordID" order="Asc" />
+              </SortInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxRecordID" />
+        </Node>
+        <Node ToolID="70">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+            <Position x="2418" y="1583" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <TempFile>D:\Temp\Gallery Data\Engine_21720_73b7d17f95a448a7bf34c40d69fd40a4_\Engine_11660_47108b5283a548278d44b8bf87cf1465_.yxdb</TempFile>
+              <TempFileDataProfiling />
+              <Layout>
+                <ViewMode>Single</ViewMode>
+                <ViewSize value="100" />
+                <View1>
+                  <DefaultTab>Profile</DefaultTab>
+                  <Hints>
+                    <Table />
+                  </Hints>
+                </View1>
+                <View2 />
+              </Layout>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+        </Node>
+        <Node ToolID="76">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.MacroOutput.MacroOutput">
+            <Position x="3066" y="451" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Name>Data</Name>
+              <Abbrev>D</Abbrev>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMacroOutput" />
+        </Node>
+        <Node ToolID="72">
+          <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+            <Position x="188" y="511.4996" width="1005" height="267.5004" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Caption>Apply Outlier Macro</Caption>
+              <Style TextColor="#314c4a" FillColor="#8064a8" BorderColor="#314c4a" Transparency="75" Margin="10" />
+              <Disabled value="False" />
+              <Folded value="False" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <ChildNodes>
+            <Node ToolID="4">
+              <GuiSettings Plugin="AlteryxBasePluginsGui.Transpose.Transpose">
+                <Position x="391.0016" y="540.4996" />
+              </GuiSettings>
+              <Properties>
+                <Configuration>
+                  <ErrorWarn>Warn</ErrorWarn>
+                  <KeyFields>
+                    <Field field="WRecordID" />
+                  </KeyFields>
+                  <DataFields>
+                    <Field field="WRecordID" selected="False" />
+                    <Field field="Sales" selected="True" />
+                    <Field field="*Unknown" selected="True" />
+                  </DataFields>
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText />
+                  <Left value="False" />
+                </Annotation>
+                <MetaInfo connection="Output">
+                  <RecordInfo>
+                    <Field name="WRecordID" source="RecordID: Starting Value=1" type="Int32" />
+                    <Field name="Name" size="25" source="Transpose:" type="String" />
+                    <Field name="Value" size="12" source="TextInput:" type="V_String" />
+                  </RecordInfo>
+                  <SortInfo>
+                    <Field field="WRecordID" order="Asc" />
+                  </SortInfo>
+                </MetaInfo>
+              </Properties>
+              <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTranspose" />
+            </Node>
+            <Node ToolID="5">
+              <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+                <Position x="486.0002" y="593.9998" />
+              </GuiSettings>
+              <Properties>
+                <Configuration>
+                  <SummarizeFields>
+                    <SummarizeField field="Name" action="GroupBy" rename="Name" />
+                  </SummarizeFields>
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <AnnotationText>Control:  Selected Data Elements</AnnotationText>
+                  <DefaultAnnotationText />
+                  <Left value="False" />
+                </Annotation>
+                <MetaInfo connection="Output">
+                  <RecordInfo>
+                    <Field name="Name" size="25" source="Summarize: GroupBy - Name" type="String" />
+                  </RecordInfo>
+                  <SortInfo>
+                    <Field field="Name" order="Asc" />
+                  </SortInfo>
+                </MetaInfo>
+              </Properties>
+              <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+            </Node>
+            <Node ToolID="14">
+              <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+                <Position x="691.0012" y="665.4984" />
+              </GuiSettings>
+              <Properties>
+                <Configuration>
+                  <OrderChanged value="False" />
+                  <CommaDecimal value="False" />
+                  <SelectFields>
+                    <SelectField field="what field am i" selected="True" rename="X_Field Name" />
+                    <SelectField field="Median" selected="True" rename="X_Median" />
+                    <SelectField field="Q1" selected="True" rename="Y_Q1" />
+                    <SelectField field="Q3" selected="True" rename="Y_Q3" />
+                    <SelectField field="IQR" selected="True" rename="Y_IQR" />
+                    <SelectField field="Upper Fence" selected="True" rename="Y_Upper Fence" />
+                    <SelectField field="Lower Fence" selected="True" rename="Y_Lower Fence" />
+                    <SelectField field="Mean" selected="True" rename="X_Mean" />
+                    <SelectField field="StdDev" selected="True" rename="Z_SttdDev" />
+                    <SelectField field="Lower Limit 1" selected="True" rename="Z_Lower Limit 1" />
+                    <SelectField field="Upper Limit 1" selected="True" rename="Z_Upper Limit 1" />
+                    <SelectField field="Lower Limit 2" selected="True" rename="Z_Lower Limit 2" />
+                    <SelectField field="Upper Limit 2" selected="True" rename="Z_Upper Limit 2" />
+                    <SelectField field="*Unknown" selected="True" />
+                  </SelectFields>
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText />
+                  <Left value="False" />
+                </Annotation>
+                <MetaInfo connection="Output">
+                  <RecordInfo>
+                    <Field name="X_Field Name" size="25" source="TextInput:" type="String" />
+                    <Field name="X_Median" source="Summarize: Median - X_IQR_DATA" type="Double" />
+                    <Field name="Y_Q1" source="Summarize: Percentile - X_IQR_DATA" type="Double" />
+                    <Field name="Y_Q3" source="Summarize: Percentile - X_IQR_DATA" type="Double" />
+                    <Field name="Y_IQR" source="Formula: [q3]-[Q1]" type="Double" />
+                    <Field name="Y_Upper Fence" source="Formula: [Q3] + (1.5 * [iqr])" type="Double" />
+                    <Field name="Y_Lower Fence" source="Formula: [Q1] - (1.5 * iqr)" type="Double" />
+                    <Field name="X_Mean" source="Summarize: Avg - X_IQR_DATA" type="Double" />
+                    <Field name="Z_SttdDev" source="Summarize: StdDev - X_IQR_DATA" type="Double" />
+                    <Field name="Z_Lower Limit 1" source="Formula: [Avg_x_IQR_DATA] - [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Z_Upper Limit 1" source="Formula: [Avg_x_IQR_DATA] + [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Z_Lower Limit 2" source="Formula: [Avg_x_IQR_DATA] - 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Z_Upper Limit 2" source="Formula: [Avg_x_IQR_DATA] + 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                  </RecordInfo>
+                </MetaInfo>
+              </Properties>
+              <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+            </Node>
+            <Node ToolID="15">
+              <GuiSettings Plugin="AlteryxBasePluginsGui.DynamicSelect.DynamicSelect">
+                <Position x="787.0012" y="665.4984" />
+              </GuiSettings>
+              <Properties>
+                <Configuration>
+                  <Mode>Formula</Mode>
+                  <Expression>Left([Name],1) IN ('X','Y','Z')</Expression>
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText />
+                  <Left value="False" />
+                </Annotation>
+                <MetaInfo connection="Output">
+                  <RecordInfo>
+                    <Field name="X_Field Name" size="25" source="TextInput:" type="String" />
+                    <Field name="X_Median" source="Summarize: Median - X_IQR_DATA" type="Double" />
+                    <Field name="Y_Q1" source="Summarize: Percentile - X_IQR_DATA" type="Double" />
+                    <Field name="Y_Q3" source="Summarize: Percentile - X_IQR_DATA" type="Double" />
+                    <Field name="Y_IQR" source="Formula: [q3]-[Q1]" type="Double" />
+                    <Field name="Y_Upper Fence" source="Formula: [Q3] + (1.5 * [iqr])" type="Double" />
+                    <Field name="Y_Lower Fence" source="Formula: [Q1] - (1.5 * iqr)" type="Double" />
+                    <Field name="X_Mean" source="Summarize: Avg - X_IQR_DATA" type="Double" />
+                    <Field name="Z_SttdDev" source="Summarize: StdDev - X_IQR_DATA" type="Double" />
+                    <Field name="Z_Lower Limit 1" source="Formula: [Avg_x_IQR_DATA] - [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Z_Upper Limit 1" source="Formula: [Avg_x_IQR_DATA] + [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Z_Lower Limit 2" source="Formula: [Avg_x_IQR_DATA] - 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Z_Upper Limit 2" source="Formula: [Avg_x_IQR_DATA] + 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                  </RecordInfo>
+                </MetaInfo>
+              </Properties>
+              <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDynamicSelect" />
+            </Node>
+            <Node ToolID="16">
+              <GuiSettings Plugin="AlteryxBasePluginsGui.DynamicRename.DynamicRename">
+                <Position x="883.0012" y="677.4984" />
+              </GuiSettings>
+              <Properties>
+                <Configuration>
+                  <RenameMode>Formula</RenameMode>
+                  <Fields orderChanged="False">
+                    <Field name="X_Field Name" />
+                    <Field name="X_Median" />
+                    <Field name="Y_Q1" />
+                    <Field name="Y_Q3" />
+                    <Field name="Y_IQR" />
+                    <Field name="Y_Upper Fence" />
+                    <Field name="Y_Lower Fence" />
+                    <Field name="X_Mean" />
+                    <Field name="Z_SttdDev" />
+                    <Field name="Z_Lower Limit 1" />
+                    <Field name="Z_Upper Limit 1" />
+                    <Field name="Z_Lower Limit 2" />
+                    <Field name="Z_Upper Limit 2" />
+                    <Field name="*Unknown" />
+                  </Fields>
+                  <Expression>substring([_CurrentField_],2)</Expression>
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText />
+                  <Left value="False" />
+                </Annotation>
+                <MetaInfo connection="Output">
+                  <RecordInfo>
+                    <Field name="Field Name" size="25" source="TextInput:" type="String" />
+                    <Field name="Median" source="Summarize: Median - X_IQR_DATA" type="Double" />
+                    <Field name="Q1" source="Summarize: Percentile - X_IQR_DATA" type="Double" />
+                    <Field name="Q3" source="Summarize: Percentile - X_IQR_DATA" type="Double" />
+                    <Field name="IQR" source="Formula: [q3]-[Q1]" type="Double" />
+                    <Field name="Upper Fence" source="Formula: [Q3] + (1.5 * [iqr])" type="Double" />
+                    <Field name="Lower Fence" source="Formula: [Q1] - (1.5 * iqr)" type="Double" />
+                    <Field name="Mean" source="Summarize: Avg - X_IQR_DATA" type="Double" />
+                    <Field name="SttdDev" source="Summarize: StdDev - X_IQR_DATA" type="Double" />
+                    <Field name="Lower Limit 1" source="Formula: [Avg_x_IQR_DATA] - [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Upper Limit 1" source="Formula: [Avg_x_IQR_DATA] + [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Lower Limit 2" source="Formula: [Avg_x_IQR_DATA] - 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Upper Limit 2" source="Formula: [Avg_x_IQR_DATA] + 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                  </RecordInfo>
+                </MetaInfo>
+              </Properties>
+              <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDynamicRename" />
+            </Node>
+            <Node ToolID="19">
+              <GuiSettings Plugin="AlteryxBasePluginsGui.RecordID.RecordID">
+                <Position x="294" y="677.9999" />
+              </GuiSettings>
+              <Properties>
+                <Configuration>
+                  <FieldName>WRecordID</FieldName>
+                  <StartValue>1</StartValue>
+                  <FieldType>Int32</FieldType>
+                  <FieldSize>6</FieldSize>
+                  <Position>0</Position>
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText />
+                  <Left value="False" />
+                </Annotation>
+                <MetaInfo connection="Output">
+                  <RecordInfo>
+                    <Field name="WRecordID" source="RecordID: Starting Value=1" type="Int32" />
+                    <Field name="QCity" size="12" source="TextInput:" type="String" />
+                    <Field name="QLand Area" source="TextInput:" type="Int16" />
+                    <Field name="QHouseholds with Under 18" source="TextInput:" type="Int16" />
+                    <Field name="QPopulation Density" source="TextInput:" type="Byte" />
+                    <Field name="QTotal Families" source="TextInput:" type="Int16" />
+                    <Field name="QTotal Pawdacity Sales" source="TextInput:" type="Int32" />
+                    <Field name="Q2010 Census" source="TextInput:" type="Int32" />
+                  </RecordInfo>
+                  <SortInfo>
+                    <Field field="WRecordID" order="Asc" />
+                  </SortInfo>
+                </MetaInfo>
+              </Properties>
+              <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxRecordID" />
+            </Node>
+            <Node ToolID="32">
+              <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+                <Position x="198" y="677.9999" />
+              </GuiSettings>
+              <Properties>
+                <Configuration>
+                  <OrderChanged value="False" />
+                  <CommaDecimal value="False" />
+                  <SelectFields>
+                    <SelectField field="QCity" selected="True" />
+                    <SelectField field="QLand Area" selected="True" />
+                    <SelectField field="QHouseholds with Under 18" selected="True" />
+                    <SelectField field="QPopulation Density" selected="True" />
+                    <SelectField field="QTotal Families" selected="True" />
+                    <SelectField field="QTotal Pawdacity Sales" selected="True" />
+                    <SelectField field="Q2010 Census" selected="True" />
+                    <SelectField field="*Unknown" selected="False" />
+                  </SelectFields>
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <AnnotationText>Select Fields to Review</AnnotationText>
+                  <DefaultAnnotationText />
+                  <Left value="False" />
+                </Annotation>
+                <MetaInfo connection="Output">
+                  <RecordInfo>
+                    <Field name="QCity" size="12" source="TextInput:" type="String" />
+                    <Field name="QLand Area" source="TextInput:" type="Int16" />
+                    <Field name="QHouseholds with Under 18" source="TextInput:" type="Int16" />
+                    <Field name="QPopulation Density" source="TextInput:" type="Byte" />
+                    <Field name="QTotal Families" source="TextInput:" type="Int16" />
+                    <Field name="QTotal Pawdacity Sales" source="TextInput:" type="Int32" />
+                    <Field name="Q2010 Census" source="TextInput:" type="Int32" />
+                  </RecordInfo>
+                </MetaInfo>
+              </Properties>
+              <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+            </Node>
+            <Node ToolID="17">
+              <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+                <Position x="1003" y="552.4984" />
+              </GuiSettings>
+              <Properties>
+                <Configuration joinByRecordPos="False">
+                  <JoinInfo connection="Left">
+                    <Field field="Name" />
+                  </JoinInfo>
+                  <JoinInfo connection="Right">
+                    <Field field="Field Name" />
+                  </JoinInfo>
+                  <SelectConfiguration>
+                    <Configuration outputConnection="Join">
+                      <OrderChanged value="False" />
+                      <CommaDecimal value="False" />
+                      <SelectFields>
+                        <SelectField field="Right_Field Name" selected="False" />
+                        <SelectField field="Right_Median" selected="False" />
+                        <SelectField field="Right_Q1" selected="False" />
+                        <SelectField field="Right_Q3" selected="False" />
+                        <SelectField field="Right_IQR" selected="False" />
+                        <SelectField field="Right_SttdDev" selected="False" />
+                        <SelectField field="*Unknown" selected="True" />
+                      </SelectFields>
+                    </Configuration>
+                  </SelectConfiguration>
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText />
+                  <Left value="False" />
+                </Annotation>
+                <MetaInfo connection="Left">
+                  <RecordInfo>
+                    <Field name="WRecordID" source="RecordID: Starting Value=1" type="Int32" />
+                    <Field name="Name" size="25" source="Transpose:" type="String" />
+                    <Field name="Value" size="12" source="TextInput:" type="V_String" />
+                  </RecordInfo>
+                  <SortInfo noProgress="True">
+                    <Field field="Name" />
+                  </SortInfo>
+                </MetaInfo>
+                <MetaInfo connection="Join">
+                  <RecordInfo>
+                    <Field name="WRecordID" source="RecordID: Starting Value=1" type="Int32" />
+                    <Field name="Name" size="25" source="Transpose:" type="String" />
+                    <Field name="Value" size="12" source="TextInput:" type="V_String" />
+                    <Field name="Upper Fence" source="Formula: [Q3] + (1.5 * [iqr])" type="Double" />
+                    <Field name="Lower Fence" source="Formula: [Q1] - (1.5 * iqr)" type="Double" />
+                    <Field name="Mean" source="Summarize: Avg - X_IQR_DATA" type="Double" />
+                    <Field name="Lower Limit 1" source="Formula: [Avg_x_IQR_DATA] - [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Upper Limit 1" source="Formula: [Avg_x_IQR_DATA] + [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Lower Limit 2" source="Formula: [Avg_x_IQR_DATA] - 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Upper Limit 2" source="Formula: [Avg_x_IQR_DATA] + 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                  </RecordInfo>
+                  <SortInfo>
+                    <Field field="Name" order="" />
+                  </SortInfo>
+                </MetaInfo>
+                <MetaInfo connection="Right">
+                  <RecordInfo>
+                    <Field name="Field Name" size="25" source="TextInput:" type="String" />
+                    <Field name="Upper Fence" source="Formula: [Q3] + (1.5 * [iqr])" type="Double" />
+                    <Field name="Lower Fence" source="Formula: [Q1] - (1.5 * iqr)" type="Double" />
+                    <Field name="Mean" source="Summarize: Avg - X_IQR_DATA" type="Double" />
+                    <Field name="Lower Limit 1" source="Formula: [Avg_x_IQR_DATA] - [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Upper Limit 1" source="Formula: [Avg_x_IQR_DATA] + [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Lower Limit 2" source="Formula: [Avg_x_IQR_DATA] - 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Upper Limit 2" source="Formula: [Avg_x_IQR_DATA] + 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                  </RecordInfo>
+                  <SortInfo noProgress="True">
+                    <Field field="Field Name" />
+                  </SortInfo>
+                </MetaInfo>
+              </Properties>
+              <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+            </Node>
+            <Node ToolID="20">
+              <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+                <Position x="1099" y="552.4984" />
+              </GuiSettings>
+              <Properties>
+                <Configuration>
+                  <FormulaFields>
+                    <FormulaField expression="toNumber([Value]) &gt; [Upper Fence] OR &#xA;toNumber([Value]) &lt; [Lower Fence]" field="IQR Outlier Ind" size="1" type="Bool" />
+                    <FormulaField expression="toNumber([Value]) &gt; [Upper Limit 1] or &#xA;toNumber([Value]) &lt; [Lower Limit 1]" field="StdDev1 Outlier" size="1" type="Bool" />
+                    <FormulaField expression="toNumber([Value]) &gt; [Upper Limit 2] or &#xA;toNumber([Value]) &lt; [Lower Limit 2]" field="StdDev2 Outlier" size="1" type="Bool" />
+                  </FormulaFields>
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <AnnotationText>Create Outlier Indicators</AnnotationText>
+                  <DefaultAnnotationText>IQR Outlier Ind = toNumber([Value]) &gt; [Upper Fence] OR 
+toNumber([Value]) &lt; [Low...</DefaultAnnotationText>
+                  <Left value="False" />
+                </Annotation>
+                <MetaInfo connection="Output">
+                  <RecordInfo>
+                    <Field name="WRecordID" source="RecordID: Starting Value=1" type="Int32" />
+                    <Field name="Name" size="25" source="Transpose:" type="String" />
+                    <Field name="Value" size="12" source="TextInput:" type="V_String" />
+                    <Field name="Upper Fence" source="Formula: [Q3] + (1.5 * [iqr])" type="Double" />
+                    <Field name="Lower Fence" source="Formula: [Q1] - (1.5 * iqr)" type="Double" />
+                    <Field name="Mean" source="Summarize: Avg - X_IQR_DATA" type="Double" />
+                    <Field name="Lower Limit 1" source="Formula: [Avg_x_IQR_DATA] - [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Upper Limit 1" source="Formula: [Avg_x_IQR_DATA] + [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Lower Limit 2" source="Formula: [Avg_x_IQR_DATA] - 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Upper Limit 2" source="Formula: [Avg_x_IQR_DATA] + 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="IQR Outlier Ind" source="Formula: toNumber([Value]) &gt; [Upper Fence] OR &#xA;toNumber([Value]) &lt; [Lower Fence]" type="Bool" />
+                    <Field name="StdDev1 Outlier" source="Formula: toNumber([Value]) &gt; [Upper Limit 1] or &#xA;toNumber([Value]) &lt; [Lower Limit 1]" type="Bool" />
+                    <Field name="StdDev2 Outlier" source="Formula: toNumber([Value]) &gt; [Upper Limit 2] or &#xA;toNumber([Value]) &lt; [Lower Limit 2]" type="Bool" />
+                  </RecordInfo>
+                  <SortInfo>
+                    <Field field="Name" order="" />
+                  </SortInfo>
+                </MetaInfo>
+              </Properties>
+              <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+            </Node>
+            <Node ToolID="75">
+              <GuiSettings Plugin="AlteryxBasePluginsGui.MacroOutput.MacroOutput">
+                <Position x="990" y="678" />
+              </GuiSettings>
+              <Properties>
+                <Configuration>
+                  <Name>Outlier Metrics</Name>
+                  <Abbrev>M</Abbrev>
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText />
+                  <Left value="False" />
+                </Annotation>
+              </Properties>
+              <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMacroOutput" />
+            </Node>
+            <Node ToolID="108">
+              <GuiSettings>
+                <Position x="606" y="666" />
+              </GuiSettings>
+              <Properties>
+                <Configuration>
+                  <Value name="BatchMacroGroupBy" />
+                  <Value name="ControlParams"><![CDATA[Control Parameter (34)=Name
+]]></Value>
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText />
+                  <Left value="False" />
+                </Annotation>
+                <Dependencies>
+                  <Implicit />
+                </Dependencies>
+                <MetaInfo connection="Outlier Limits">
+                  <RecordInfo>
+                    <Field name="what field am i" size="25" source="TextInput:" type="String" />
+                    <Field name="Median" source="Summarize: Median - X_IQR_DATA" type="Double" />
+                    <Field name="Q1" source="Summarize: Percentile - X_IQR_DATA" type="Double" />
+                    <Field name="Q3" source="Summarize: Percentile - X_IQR_DATA" type="Double" />
+                    <Field name="IQR" source="Formula: [q3]-[Q1]" type="Double" />
+                    <Field name="Upper Fence" source="Formula: [Q3] + (1.5 * [iqr])" type="Double" />
+                    <Field name="Lower Fence" source="Formula: [Q1] - (1.5 * iqr)" type="Double" />
+                    <Field name="Mean" source="Summarize: Avg - X_IQR_DATA" type="Double" />
+                    <Field name="StdDev" source="Summarize: StdDev - X_IQR_DATA" type="Double" />
+                    <Field name="Lower Limit 1" source="Formula: [Avg_x_IQR_DATA] - [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Upper Limit 1" source="Formula: [Avg_x_IQR_DATA] + [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Lower Limit 2" source="Formula: [Avg_x_IQR_DATA] - 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Upper Limit 2" source="Formula: [Avg_x_IQR_DATA] + 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                  </RecordInfo>
+                </MetaInfo>
+              </Properties>
+              <EngineSettings Macro="Udacity\Identify Outliers (BATCH).yxmc" />
+            </Node>
+          </ChildNodes>
+        </Node>
+        <Node ToolID="71">
+          <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+            <Position x="1530" y="1518" width="844" height="238" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Caption>Outlier Metrics by Field</Caption>
+              <Style TextColor="#314c4a" FillColor="#8064a8" BorderColor="#314c4a" Transparency="75" Margin="10" />
+              <Disabled value="False" />
+              <Folded value="False" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <ChildNodes>
+            <Node ToolID="56">
+              <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+                <Position x="1732" y="1547" />
+              </GuiSettings>
+              <Properties>
+                <Configuration>
+                  <SummarizeFields>
+                    <SummarizeField field="Name" action="GroupBy" rename="Field Name" />
+                    <SummarizeField field="Name2" action="GroupBy" rename="Outlier Type" />
+                    <SummarizeField field="Value" action="GroupBy" rename="Outlier Indicator" />
+                    <SummarizeField field="Name" action="Count" rename="Outlier Indicator Count" />
+                  </SummarizeFields>
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText />
+                  <Left value="False" />
+                </Annotation>
+                <MetaInfo connection="Output">
+                  <RecordInfo>
+                    <Field name="Field Name" size="25" source="Summarize: GroupBy - Name" type="String" />
+                    <Field name="Outlier Type" size="15" source="Summarize: GroupBy - Name2" type="String" />
+                    <Field name="Outlier Indicator" source="Summarize: GroupBy - Value" type="Double" />
+                    <Field name="Outlier Indicator Count" source="Summarize: Count - Name" type="Int64" />
+                  </RecordInfo>
+                  <SortInfo>
+                    <Field field="Name" order="Asc" />
+                    <Field field="Name2" order="Asc" />
+                    <Field field="Value" order="Asc" />
+                  </SortInfo>
+                </MetaInfo>
+              </Properties>
+              <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+            </Node>
+            <Node ToolID="57">
+              <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+                <Position x="1540" y="1655" />
+              </GuiSettings>
+              <Properties>
+                <Configuration>
+                  <SummarizeFields>
+                    <SummarizeField field="WRecordID" action="CountDistinct" rename="Total Records" />
+                    <SummarizeField field="Name" action="GroupBy" rename="Name" />
+                  </SummarizeFields>
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText />
+                  <Left value="False" />
+                </Annotation>
+                <MetaInfo connection="Output">
+                  <RecordInfo>
+                    <Field name="Total Records" source="Summarize: CountDistinct - WRecordID" type="Int64" />
+                    <Field name="Name" size="25" source="Summarize: GroupBy - Name" type="String" />
+                  </RecordInfo>
+                  <SortInfo>
+                    <Field field="Name" order="Asc" />
+                  </SortInfo>
+                </MetaInfo>
+              </Properties>
+              <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+            </Node>
+            <Node ToolID="58">
+              <GuiSettings Plugin="AlteryxBasePluginsGui.AppendFields.AppendFields">
+                <Position x="1828" y="1559" />
+              </GuiSettings>
+              <Properties>
+                <Configuration>
+                  <CartesianMode>Error</CartesianMode>
+                  <SelectConfiguration>
+                    <Configuration outputConnection="Output">
+                      <OrderChanged value="False" />
+                      <CommaDecimal value="False" />
+                      <SelectFields>
+                        <SelectField field="*Unknown" selected="True" />
+                      </SelectFields>
+                    </Configuration>
+                  </SelectConfiguration>
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText />
+                  <Left value="False" />
+                </Annotation>
+                <MetaInfo connection="Output">
+                  <RecordInfo>
+                    <Field name="Field Name" size="25" source="Summarize: GroupBy - Name" type="String" />
+                    <Field name="Outlier Type" size="15" source="Summarize: GroupBy - Name2" type="String" />
+                    <Field name="Outlier Indicator" source="Summarize: GroupBy - Value" type="Double" />
+                    <Field name="Outlier Indicator Count" source="Summarize: Count - Name" type="Int64" />
+                    <Field name="Total Records" source="Summarize: CountDistinct - WRecordID" type="Int64" />
+                  </RecordInfo>
+                </MetaInfo>
+              </Properties>
+              <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxAppendFields" />
+            </Node>
+            <Node ToolID="59">
+              <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+                <Position x="1936" y="1559" />
+              </GuiSettings>
+              <Properties>
+                <Configuration>
+                  <FormulaFields>
+                    <FormulaField expression="[Outlier Indicator Count]/[Total Records]" field="Pct Field Outliers" size="19.6" type="FixedDecimal" />
+                    <FormulaField expression="[Outlier Type]+&quot;=&quot;+IIF([Outlier Indicator],&quot;T&quot;,&quot;F&quot;)" field="Header" size="1073741823" type="V_WString" />
+                  </FormulaFields>
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText>Pct Field Outliers = [Outlier Indicator Count]/[Total Records]
+Header = [Outlier...</DefaultAnnotationText>
+                  <Left value="False" />
+                </Annotation>
+                <MetaInfo connection="Output">
+                  <RecordInfo>
+                    <Field name="Field Name" size="25" source="Summarize: GroupBy - Name" type="String" />
+                    <Field name="Outlier Type" size="15" source="Summarize: GroupBy - Name2" type="String" />
+                    <Field name="Outlier Indicator" source="Summarize: GroupBy - Value" type="Double" />
+                    <Field name="Outlier Indicator Count" source="Summarize: Count - Name" type="Int64" />
+                    <Field name="Total Records" source="Summarize: CountDistinct - WRecordID" type="Int64" />
+                    <Field name="Pct Field Outliers" scale="6" size="19" source="Formula: [Outlier Indicator Count]/[Total Records]" type="FixedDecimal" />
+                    <Field name="Header" size="1073741823" source="Formula: [Outlier Type]+&quot;=&quot;+IIF([Outlier Indicator],&quot;T&quot;,&quot;F&quot;)" type="V_WString" />
+                  </RecordInfo>
+                </MetaInfo>
+              </Properties>
+              <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+            </Node>
+            <Node ToolID="61">
+              <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+                <Position x="1636" y="1655" />
+              </GuiSettings>
+              <Properties>
+                <Configuration>
+                  <OrderChanged value="False" />
+                  <CommaDecimal value="False" />
+                  <SelectFields>
+                    <SelectField field="Name" selected="False" />
+                    <SelectField field="*Unknown" selected="True" />
+                  </SelectFields>
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText />
+                  <Left value="False" />
+                </Annotation>
+                <MetaInfo connection="Output">
+                  <RecordInfo>
+                    <Field name="Total Records" source="Summarize: CountDistinct - WRecordID" type="Int64" />
+                  </RecordInfo>
+                </MetaInfo>
+              </Properties>
+              <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+            </Node>
+            <Node ToolID="62">
+              <GuiSettings Plugin="AlteryxBasePluginsGui.Unique.Unique">
+                <Position x="1732" y="1655" />
+              </GuiSettings>
+              <Properties>
+                <Configuration>
+                  <UniqueFields>
+                    <Field field="Total Records" />
+                  </UniqueFields>
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText>Unique: Total Records</DefaultAnnotationText>
+                  <Left value="False" />
+                </Annotation>
+                <MetaInfo connection="Unique">
+                  <RecordInfo>
+                    <Field name="Total Records" source="Summarize: CountDistinct - WRecordID" type="Int64" />
+                  </RecordInfo>
+                  <SortInfo>
+                    <Field field="Total Records" order="Asc" />
+                  </SortInfo>
+                </MetaInfo>
+                <MetaInfo connection="Duplicates">
+                  <RecordInfo>
+                    <Field name="Total Records" source="Summarize: CountDistinct - WRecordID" type="Int64" />
+                  </RecordInfo>
+                  <SortInfo>
+                    <Field field="Total Records" order="Asc" />
+                  </SortInfo>
+                </MetaInfo>
+              </Properties>
+              <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnique" />
+            </Node>
+            <Node ToolID="63">
+              <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+                <Position x="1540" y="1547" />
+              </GuiSettings>
+              <Properties>
+                <Configuration>
+                  <OrderChanged value="False" />
+                  <CommaDecimal value="False" />
+                  <SelectFields>
+                    <SelectField field="WRecordID" selected="False" />
+                    <SelectField field="Value" selected="False" />
+                    <SelectField field="Upper Fence" selected="False" />
+                    <SelectField field="Lower Fence" selected="False" />
+                    <SelectField field="Lower Limit 1" selected="False" />
+                    <SelectField field="Upper Limit 1" selected="False" />
+                    <SelectField field="Lower Limit 2" selected="False" />
+                    <SelectField field="Upper Limit 2" selected="False" />
+                    <SelectField field="*Unknown" selected="True" />
+                  </SelectFields>
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText />
+                  <Left value="False" />
+                </Annotation>
+                <MetaInfo connection="Output">
+                  <RecordInfo>
+                    <Field name="Name" size="25" source="Transpose:" type="String" />
+                    <Field name="Mean" source="Summarize: Avg - X_IQR_DATA" type="Double" />
+                    <Field name="IQR Outlier Ind" source="Formula: toNumber([Value]) &gt; [Upper Fence] OR &#xA;toNumber([Value]) &lt; [Lower Fence]" type="Bool" />
+                    <Field name="StdDev1 Outlier" source="Formula: toNumber([Value]) &gt; [Upper Limit 1] or &#xA;toNumber([Value]) &lt; [Lower Limit 1]" type="Bool" />
+                    <Field name="StdDev2 Outlier" source="Formula: toNumber([Value]) &gt; [Upper Limit 2] or &#xA;toNumber([Value]) &lt; [Lower Limit 2]" type="Bool" />
+                  </RecordInfo>
+                  <SortInfo>
+                    <Field field="Name" order="" />
+                  </SortInfo>
+                </MetaInfo>
+              </Properties>
+              <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+            </Node>
+            <Node ToolID="64">
+              <GuiSettings Plugin="AlteryxBasePluginsGui.Transpose.Transpose">
+                <Position x="1636" y="1547" />
+              </GuiSettings>
+              <Properties>
+                <Configuration>
+                  <ErrorWarn>Warn</ErrorWarn>
+                  <KeyFields>
+                    <Field field="Name" />
+                  </KeyFields>
+                  <DataFields>
+                    <Field field="Name" selected="False" />
+                    <Field field="IQR Outlier Ind" selected="True" />
+                    <Field field="StdDev1 Outlier" selected="True" />
+                    <Field field="StdDev2 Outlier" selected="True" />
+                    <Field field="*Unknown" selected="True" />
+                  </DataFields>
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText />
+                  <Left value="False" />
+                </Annotation>
+                <MetaInfo connection="Output">
+                  <RecordInfo>
+                    <Field name="Name" size="25" source="Transpose:" type="String" />
+                    <Field name="Name2" size="15" source="Transpose:" type="String" />
+                    <Field name="Value" source="(Multiple Sources)" type="Double" />
+                  </RecordInfo>
+                  <SortInfo>
+                    <Field field="Name" order="" />
+                  </SortInfo>
+                </MetaInfo>
+              </Properties>
+              <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTranspose" />
+            </Node>
+            <Node ToolID="65">
+              <GuiSettings Plugin="AlteryxBasePluginsGui.CrossTab.CrossTab">
+                <Position x="2056" y="1559" />
+              </GuiSettings>
+              <Properties>
+                <Configuration>
+                  <GroupFields>
+                    <Field field="Field Name" />
+                  </GroupFields>
+                  <HeaderField field="Header" />
+                  <DataField field="Outlier Indicator Count" />
+                  <Methods>
+                    <Method method="Sum" />
+                  </Methods>
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText />
+                  <Left value="False" />
+                </Annotation>
+                <MetaInfo connection="Output">
+                  <RecordInfo>
+                    <Field name="Field Name" size="25" source="CrossTab:Group:Sum:" type="String" />
+                    <Field name="IQR_Outlier_Ind_F" source="CrossTab:Header:Header:IQR Outlier Ind=F:Sum:" type="Int64" />
+                    <Field name="IQR_Outlier_Ind_T" source="CrossTab:Header:Header:IQR Outlier Ind=T:Sum:" type="Int64" />
+                    <Field name="Mean_F" source="CrossTab:Header:Header:Mean=F:Sum:" type="Int64" />
+                    <Field name="Mean_T" source="CrossTab:Header:Header:Mean=T:Sum:" type="Int64" />
+                    <Field name="StdDev1_Outlier_F" source="CrossTab:Header:Header:StdDev1 Outlier=F:Sum:" type="Int64" />
+                    <Field name="StdDev1_Outlier_T" source="CrossTab:Header:Header:StdDev1 Outlier=T:Sum:" type="Int64" />
+                    <Field name="StdDev2_Outlier_F" source="CrossTab:Header:Header:StdDev2 Outlier=F:Sum:" type="Int64" />
+                    <Field name="StdDev2_Outlier_T" source="CrossTab:Header:Header:StdDev2 Outlier=T:Sum:" type="Int64" />
+                  </RecordInfo>
+                  <SortInfo>
+                    <Field field="Field Name" order="Asc" />
+                  </SortInfo>
+                </MetaInfo>
+              </Properties>
+              <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxCrossTab" />
+            </Node>
+            <Node ToolID="66">
+              <GuiSettings Plugin="AlteryxBasePluginsGui.CrossTab.CrossTab">
+                <Position x="2056" y="1619" />
+              </GuiSettings>
+              <Properties>
+                <Configuration>
+                  <GroupFields>
+                    <Field field="Field Name" />
+                  </GroupFields>
+                  <HeaderField field="Header" />
+                  <DataField field="Pct Field Outliers" />
+                  <Methods>
+                    <Method method="Sum" />
+                  </Methods>
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText />
+                  <Left value="False" />
+                </Annotation>
+                <MetaInfo connection="Output">
+                  <RecordInfo>
+                    <Field name="Field Name" size="25" source="CrossTab:Group:Sum:" type="String" />
+                    <Field name="IQR_Outlier_Ind_F" source="CrossTab:Header:Header:IQR Outlier Ind=F:Sum:" type="Double" />
+                    <Field name="IQR_Outlier_Ind_T" source="CrossTab:Header:Header:IQR Outlier Ind=T:Sum:" type="Double" />
+                    <Field name="Mean_F" source="CrossTab:Header:Header:Mean=F:Sum:" type="Double" />
+                    <Field name="Mean_T" source="CrossTab:Header:Header:Mean=T:Sum:" type="Double" />
+                    <Field name="StdDev1_Outlier_F" source="CrossTab:Header:Header:StdDev1 Outlier=F:Sum:" type="Double" />
+                    <Field name="StdDev1_Outlier_T" source="CrossTab:Header:Header:StdDev1 Outlier=T:Sum:" type="Double" />
+                    <Field name="StdDev2_Outlier_F" source="CrossTab:Header:Header:StdDev2 Outlier=F:Sum:" type="Double" />
+                    <Field name="StdDev2_Outlier_T" source="CrossTab:Header:Header:StdDev2 Outlier=T:Sum:" type="Double" />
+                  </RecordInfo>
+                  <SortInfo>
+                    <Field field="Field Name" order="Asc" />
+                  </SortInfo>
+                </MetaInfo>
+              </Properties>
+              <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxCrossTab" />
+            </Node>
+            <Node ToolID="67">
+              <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+                <Position x="2152" y="1583" />
+              </GuiSettings>
+              <Properties>
+                <Configuration joinByRecordPos="False">
+                  <JoinInfo connection="Left">
+                    <Field field="Field Name" />
+                  </JoinInfo>
+                  <JoinInfo connection="Right">
+                    <Field field="Field Name" />
+                  </JoinInfo>
+                  <SelectConfiguration>
+                    <Configuration outputConnection="Join">
+                      <OrderChanged value="True" />
+                      <CommaDecimal value="False" />
+                      <SelectFields>
+                        <SelectField field="Left_Field Name" selected="True" />
+                        <SelectField field="Left_IQR_Outlier_Ind_T" selected="True" rename="IQR # Outlier" />
+                        <SelectField field="Right_IQR_Outlier_Ind_T" selected="True" rename="IQR % Outlier" />
+                        <SelectField field="Left_IQR_Outlier_Ind_F" selected="False" rename="IQR # False" />
+                        <SelectField field="Left_StdDev1_Outlier_T" selected="True" rename="1StdDev # Outlier" />
+                        <SelectField field="Right_StdDev1_Outlier_T" selected="True" rename="1StdDev % Outlier" />
+                        <SelectField field="Left_StdDev1_Outlier_F" selected="False" rename="1StdDev # False" />
+                        <SelectField field="Left_StdDev2_Outlier_T" selected="True" rename="2StdDev # Outlier" />
+                        <SelectField field="Right_StdDev2_Outlier_T" selected="True" rename="2StdDev % Outlier" />
+                        <SelectField field="Left_StdDev2_Outlier_F" selected="False" rename="2StdDev # False" />
+                        <SelectField field="Right_Field Name" selected="False" rename="Right_Field Name" />
+                        <SelectField field="Right_IQR_Outlier_Ind_F" selected="False" rename="IQR % False" />
+                        <SelectField field="Right_StdDev1_Outlier_F" selected="False" rename="1StdDev % False" />
+                        <SelectField field="Right_StdDev2_Outlier_F" selected="False" rename="2StdDev % False" />
+                        <SelectField field="Left_Mean_F" selected="False" />
+                        <SelectField field="Left_Mean_T" selected="False" />
+                        <SelectField field="Right_Mean_F" selected="False" rename="Right_Mean_F" />
+                        <SelectField field="Right_Mean_T" selected="False" rename="Right_Mean_T" />
+                        <SelectField field="*Unknown" selected="True" />
+                      </SelectFields>
+                    </Configuration>
+                  </SelectConfiguration>
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText />
+                  <Left value="False" />
+                </Annotation>
+                <MetaInfo connection="Left">
+                  <RecordInfo>
+                    <Field name="Field Name" size="25" source="CrossTab:Group:Sum:" type="String" />
+                    <Field name="IQR_Outlier_Ind_T" source="CrossTab:Header:Header:IQR Outlier Ind=T:Sum:" type="Int64" />
+                    <Field name="StdDev1_Outlier_T" source="CrossTab:Header:Header:StdDev1 Outlier=T:Sum:" type="Int64" />
+                    <Field name="StdDev2_Outlier_T" source="CrossTab:Header:Header:StdDev2 Outlier=T:Sum:" type="Int64" />
+                  </RecordInfo>
+                  <SortInfo noProgress="True">
+                    <Field field="Field Name" />
+                  </SortInfo>
+                </MetaInfo>
+                <MetaInfo connection="Join">
+                  <RecordInfo>
+                    <Field name="Field Name" size="25" source="CrossTab:Group:Sum:" type="String" />
+                    <Field name="IQR # Outlier" source="CrossTab:Header:Header:IQR Outlier Ind=T:Sum:" type="Int64" />
+                    <Field name="IQR % Outlier" source="CrossTab:Header:Header:IQR Outlier Ind=T:Sum:" type="Double" />
+                    <Field name="1StdDev # Outlier" source="CrossTab:Header:Header:StdDev1 Outlier=T:Sum:" type="Int64" />
+                    <Field name="1StdDev % Outlier" source="CrossTab:Header:Header:StdDev1 Outlier=T:Sum:" type="Double" />
+                    <Field name="2StdDev # Outlier" source="CrossTab:Header:Header:StdDev2 Outlier=T:Sum:" type="Int64" />
+                    <Field name="2StdDev % Outlier" source="CrossTab:Header:Header:StdDev2 Outlier=T:Sum:" type="Double" />
+                  </RecordInfo>
+                  <SortInfo>
+                    <Field field="Field Name" order="" />
+                  </SortInfo>
+                </MetaInfo>
+                <MetaInfo connection="Right">
+                  <RecordInfo>
+                    <Field name="Field Name" size="25" source="CrossTab:Group:Sum:" type="String" />
+                    <Field name="IQR_Outlier_Ind_T" source="CrossTab:Header:Header:IQR Outlier Ind=T:Sum:" type="Double" />
+                    <Field name="StdDev1_Outlier_T" source="CrossTab:Header:Header:StdDev1 Outlier=T:Sum:" type="Double" />
+                    <Field name="StdDev2_Outlier_T" source="CrossTab:Header:Header:StdDev2 Outlier=T:Sum:" type="Double" />
+                  </RecordInfo>
+                  <SortInfo noProgress="True">
+                    <Field field="Field Name" />
+                  </SortInfo>
+                </MetaInfo>
+              </Properties>
+              <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+            </Node>
+            <Node ToolID="69">
+              <GuiSettings Plugin="AlteryxBasePluginsGui.MultiFieldFormula.MultiFieldFormula">
+                <Position x="2260" y="1583" />
+              </GuiSettings>
+              <Properties>
+                <Configuration>
+                  <FieldType>Numeric</FieldType>
+                  <Fields orderChanged="False">
+                    <Field name="IQR # Outlier" />
+                    <Field name="IQR % Outlier" />
+                    <Field name="1StdDev # Outlier" />
+                    <Field name="1StdDev % Outlier" />
+                    <Field name="2StdDev # Outlier" />
+                    <Field name="2StdDev % Outlier" />
+                    <Field name="*Unknown" />
+                  </Fields>
+                  <CopyOutput value="False" />
+                  <Expression>IIF(Contains([_CurrentFieldName_],"#"),IIF(isnull([_CurrentField_]),"0",ToString([_CurrentField_],0,1)),ToString(max(0,[_CurrentField_]*100),2)+"%")</Expression>
+                  <ChangeFieldType value="True" />
+                  <OutputFieldType type="V_String" size="8" scale="0" />
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText>IIF(Contains([_CurrentFieldName_],"#"),IIF(isnull([_CurrentFi...</DefaultAnnotationText>
+                  <Left value="False" />
+                </Annotation>
+                <MetaInfo connection="Output">
+                  <RecordInfo>
+                    <Field name="Field Name" size="25" source="CrossTab:Group:Sum:" type="String" />
+                    <Field name="IQR # Outlier" size="8" source="Formula: IIF(Contains([_CurrentFieldName_],&quot;#&quot;),IIF(isnull([_CurrentField_]),&quot;0&quot;,ToString([_CurrentField_],0,1)),ToString(max(0,[_CurrentField_]*100),2)+&quot;%&quot;)" type="V_String" />
+                    <Field name="IQR % Outlier" size="8" source="Formula: IIF(Contains([_CurrentFieldName_],&quot;#&quot;),IIF(isnull([_CurrentField_]),&quot;0&quot;,ToString([_CurrentField_],0,1)),ToString(max(0,[_CurrentField_]*100),2)+&quot;%&quot;)" type="V_String" />
+                    <Field name="1StdDev # Outlier" size="8" source="Formula: IIF(Contains([_CurrentFieldName_],&quot;#&quot;),IIF(isnull([_CurrentField_]),&quot;0&quot;,ToString([_CurrentField_],0,1)),ToString(max(0,[_CurrentField_]*100),2)+&quot;%&quot;)" type="V_String" />
+                    <Field name="1StdDev % Outlier" size="8" source="Formula: IIF(Contains([_CurrentFieldName_],&quot;#&quot;),IIF(isnull([_CurrentField_]),&quot;0&quot;,ToString([_CurrentField_],0,1)),ToString(max(0,[_CurrentField_]*100),2)+&quot;%&quot;)" type="V_String" />
+                    <Field name="2StdDev # Outlier" size="8" source="Formula: IIF(Contains([_CurrentFieldName_],&quot;#&quot;),IIF(isnull([_CurrentField_]),&quot;0&quot;,ToString([_CurrentField_],0,1)),ToString(max(0,[_CurrentField_]*100),2)+&quot;%&quot;)" type="V_String" />
+                    <Field name="2StdDev % Outlier" size="8" source="Formula: IIF(Contains([_CurrentFieldName_],&quot;#&quot;),IIF(isnull([_CurrentField_]),&quot;0&quot;,ToString([_CurrentField_],0,1)),ToString(max(0,[_CurrentField_]*100),2)+&quot;%&quot;)" type="V_String" />
+                  </RecordInfo>
+                  <SortInfo>
+                    <Field field="Field Name" order="" />
+                  </SortInfo>
+                </MetaInfo>
+              </Properties>
+              <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMultiFieldFormula" />
+            </Node>
+          </ChildNodes>
+        </Node>
+        <Node ToolID="51">
+          <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+            <Position x="1209" y="523.4999" width="271" height="165.5001" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Caption>Filter Outliers</Caption>
+              <Style TextColor="#314c4a" FillColor="#8064a8" BorderColor="#314c4a" Transparency="75" Margin="10" />
+              <Disabled value="False" />
+              <Folded value="False" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <ChildNodes>
+            <Node ToolID="21">
+              <GuiSettings Plugin="AlteryxBasePluginsGui.Detour.Detour">
+                <Position x="1219" y="552.4999" />
+              </GuiSettings>
+              <Properties>
+                <Configuration>
+                  <DetourRight value="False" />
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText />
+                  <Left value="False" />
+                </Annotation>
+                <MetaInfo connection="Left">
+                  <RecordInfo>
+                    <Field name="WRecordID" source="RecordID: Starting Value=1" type="Int32" />
+                    <Field name="Name" size="25" source="Transpose:" type="String" />
+                    <Field name="Value" size="12" source="TextInput:" type="V_String" />
+                    <Field name="Upper Fence" source="Formula: [Q3] + (1.5 * [iqr])" type="Double" />
+                    <Field name="Lower Fence" source="Formula: [Q1] - (1.5 * iqr)" type="Double" />
+                    <Field name="Mean" source="Summarize: Avg - X_IQR_DATA" type="Double" />
+                    <Field name="Lower Limit 1" source="Formula: [Avg_x_IQR_DATA] - [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Upper Limit 1" source="Formula: [Avg_x_IQR_DATA] + [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Lower Limit 2" source="Formula: [Avg_x_IQR_DATA] - 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Upper Limit 2" source="Formula: [Avg_x_IQR_DATA] + 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="IQR Outlier Ind" source="Formula: toNumber([Value]) &gt; [Upper Fence] OR &#xA;toNumber([Value]) &lt; [Lower Fence]" type="Bool" />
+                    <Field name="StdDev1 Outlier" source="Formula: toNumber([Value]) &gt; [Upper Limit 1] or &#xA;toNumber([Value]) &lt; [Lower Limit 1]" type="Bool" />
+                    <Field name="StdDev2 Outlier" source="Formula: toNumber([Value]) &gt; [Upper Limit 2] or &#xA;toNumber([Value]) &lt; [Lower Limit 2]" type="Bool" />
+                  </RecordInfo>
+                  <SortInfo>
+                    <Field field="Name" order="" />
+                  </SortInfo>
+                </MetaInfo>
+                <MetaInfo connection="Right">
+                  <RecordInfo>
+                    <Field name="WRecordID" source="RecordID: Starting Value=1" type="Int32" />
+                    <Field name="Name" size="25" source="Transpose:" type="String" />
+                    <Field name="Value" size="12" source="TextInput:" type="V_String" />
+                    <Field name="Upper Fence" source="Formula: [Q3] + (1.5 * [iqr])" type="Double" />
+                    <Field name="Lower Fence" source="Formula: [Q1] - (1.5 * iqr)" type="Double" />
+                    <Field name="Mean" source="Summarize: Avg - X_IQR_DATA" type="Double" />
+                    <Field name="Lower Limit 1" source="Formula: [Avg_x_IQR_DATA] - [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Upper Limit 1" source="Formula: [Avg_x_IQR_DATA] + [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Lower Limit 2" source="Formula: [Avg_x_IQR_DATA] - 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Upper Limit 2" source="Formula: [Avg_x_IQR_DATA] + 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="IQR Outlier Ind" source="Formula: toNumber([Value]) &gt; [Upper Fence] OR &#xA;toNumber([Value]) &lt; [Lower Fence]" type="Bool" />
+                    <Field name="StdDev1 Outlier" source="Formula: toNumber([Value]) &gt; [Upper Limit 1] or &#xA;toNumber([Value]) &lt; [Lower Limit 1]" type="Bool" />
+                    <Field name="StdDev2 Outlier" source="Formula: toNumber([Value]) &gt; [Upper Limit 2] or &#xA;toNumber([Value]) &lt; [Lower Limit 2]" type="Bool" />
+                  </RecordInfo>
+                  <SortInfo>
+                    <Field field="Name" order="" />
+                  </SortInfo>
+                </MetaInfo>
+              </Properties>
+              <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDetour" />
+            </Node>
+            <Node ToolID="22">
+              <GuiSettings Plugin="AlteryxBasePluginsGui.DetourEnd.DetourEnd">
+                <Position x="1411" y="552.4999" />
+              </GuiSettings>
+              <Properties>
+                <Configuration />
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText />
+                  <Left value="False" />
+                </Annotation>
+                <MetaInfo connection="Output">
+                  <RecordInfo>
+                    <Field name="WRecordID" source="RecordID: Starting Value=1" type="Int32" />
+                    <Field name="Name" size="25" source="Transpose:" type="String" />
+                    <Field name="Value" size="12" source="TextInput:" type="V_String" />
+                    <Field name="Upper Fence" source="Formula: [Q3] + (1.5 * [iqr])" type="Double" />
+                    <Field name="Lower Fence" source="Formula: [Q1] - (1.5 * iqr)" type="Double" />
+                    <Field name="Mean" source="Summarize: Avg - X_IQR_DATA" type="Double" />
+                    <Field name="Lower Limit 1" source="Formula: [Avg_x_IQR_DATA] - [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Upper Limit 1" source="Formula: [Avg_x_IQR_DATA] + [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Lower Limit 2" source="Formula: [Avg_x_IQR_DATA] - 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Upper Limit 2" source="Formula: [Avg_x_IQR_DATA] + 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="IQR Outlier Ind" source="Formula: toNumber([Value]) &gt; [Upper Fence] OR &#xA;toNumber([Value]) &lt; [Lower Fence]" type="Bool" />
+                    <Field name="StdDev1 Outlier" source="Formula: toNumber([Value]) &gt; [Upper Limit 1] or &#xA;toNumber([Value]) &lt; [Lower Limit 1]" type="Bool" />
+                    <Field name="StdDev2 Outlier" source="Formula: toNumber([Value]) &gt; [Upper Limit 2] or &#xA;toNumber([Value]) &lt; [Lower Limit 2]" type="Bool" />
+                  </RecordInfo>
+                  <SortInfo>
+                    <Field field="Name" order="" />
+                  </SortInfo>
+                </MetaInfo>
+              </Properties>
+              <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDetourEnd" />
+            </Node>
+            <Node ToolID="23">
+              <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+                <Position x="1315" y="588.4999" />
+              </GuiSettings>
+              <Properties>
+                <Configuration>
+                  <Expression>[IQR Outlier Ind] = 0 &amp;&amp;
+[StdDev1 Outlier] = 0 &amp;&amp;
+[StdDev2 Outlier] = 0</Expression>
+                  <Mode>Custom</Mode>
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText>[IQR Outlier Ind] = 0 &amp;&amp;
+[StdDev1 Outlier] = 0 &amp;&amp;
+[StdDev2 Ou...</DefaultAnnotationText>
+                  <Left value="False" />
+                </Annotation>
+              </Properties>
+              <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+            </Node>
+          </ChildNodes>
+        </Node>
+        <Node ToolID="55">
+          <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+            <Position x="1520" y="529" width="1315" height="904" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Caption>Modify Values as Needed</Caption>
+              <Style TextColor="#314c4a" FillColor="#8064a8" BorderColor="#314c4a" Transparency="75" Margin="10" />
+              <Disabled value="False" />
+              <Folded value="False" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <ChildNodes>
+            <Node ToolID="24">
+              <GuiSettings Plugin="AlteryxBasePluginsGui.Detour.Detour">
+                <Position x="1530" y="570.0002" />
+              </GuiSettings>
+              <Properties>
+                <Configuration>
+                  <DetourRight value="False" />
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText />
+                  <Left value="False" />
+                </Annotation>
+                <MetaInfo connection="Left">
+                  <RecordInfo>
+                    <Field name="WRecordID" source="RecordID: Starting Value=1" type="Int32" />
+                    <Field name="Name" size="25" source="Transpose:" type="String" />
+                    <Field name="Value" size="12" source="TextInput:" type="V_String" />
+                    <Field name="Upper Fence" source="Formula: [Q3] + (1.5 * [iqr])" type="Double" />
+                    <Field name="Lower Fence" source="Formula: [Q1] - (1.5 * iqr)" type="Double" />
+                    <Field name="Mean" source="Summarize: Avg - X_IQR_DATA" type="Double" />
+                    <Field name="Lower Limit 1" source="Formula: [Avg_x_IQR_DATA] - [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Upper Limit 1" source="Formula: [Avg_x_IQR_DATA] + [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Lower Limit 2" source="Formula: [Avg_x_IQR_DATA] - 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Upper Limit 2" source="Formula: [Avg_x_IQR_DATA] + 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="IQR Outlier Ind" source="Formula: toNumber([Value]) &gt; [Upper Fence] OR &#xA;toNumber([Value]) &lt; [Lower Fence]" type="Bool" />
+                    <Field name="StdDev1 Outlier" source="Formula: toNumber([Value]) &gt; [Upper Limit 1] or &#xA;toNumber([Value]) &lt; [Lower Limit 1]" type="Bool" />
+                    <Field name="StdDev2 Outlier" source="Formula: toNumber([Value]) &gt; [Upper Limit 2] or &#xA;toNumber([Value]) &lt; [Lower Limit 2]" type="Bool" />
+                  </RecordInfo>
+                  <SortInfo>
+                    <Field field="Name" order="" />
+                  </SortInfo>
+                </MetaInfo>
+                <MetaInfo connection="Right">
+                  <RecordInfo>
+                    <Field name="WRecordID" source="RecordID: Starting Value=1" type="Int32" />
+                    <Field name="Name" size="25" source="Transpose:" type="String" />
+                    <Field name="Value" size="12" source="TextInput:" type="V_String" />
+                    <Field name="Upper Fence" source="Formula: [Q3] + (1.5 * [iqr])" type="Double" />
+                    <Field name="Lower Fence" source="Formula: [Q1] - (1.5 * iqr)" type="Double" />
+                    <Field name="Mean" source="Summarize: Avg - X_IQR_DATA" type="Double" />
+                    <Field name="Lower Limit 1" source="Formula: [Avg_x_IQR_DATA] - [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Upper Limit 1" source="Formula: [Avg_x_IQR_DATA] + [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Lower Limit 2" source="Formula: [Avg_x_IQR_DATA] - 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Upper Limit 2" source="Formula: [Avg_x_IQR_DATA] + 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="IQR Outlier Ind" source="Formula: toNumber([Value]) &gt; [Upper Fence] OR &#xA;toNumber([Value]) &lt; [Lower Fence]" type="Bool" />
+                    <Field name="StdDev1 Outlier" source="Formula: toNumber([Value]) &gt; [Upper Limit 1] or &#xA;toNumber([Value]) &lt; [Lower Limit 1]" type="Bool" />
+                    <Field name="StdDev2 Outlier" source="Formula: toNumber([Value]) &gt; [Upper Limit 2] or &#xA;toNumber([Value]) &lt; [Lower Limit 2]" type="Bool" />
+                  </RecordInfo>
+                  <SortInfo>
+                    <Field field="Name" order="" />
+                  </SortInfo>
+                </MetaInfo>
+              </Properties>
+              <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDetour" />
+            </Node>
+            <Node ToolID="31">
+              <GuiSettings Plugin="AlteryxBasePluginsGui.DynamicRename.DynamicRename">
+                <Position x="2694" y="906" />
+              </GuiSettings>
+              <Properties>
+                <Configuration>
+                  <RenameMode>RightInputRows</RenameMode>
+                  <Fields orderChanged="False">
+                    <Field name="WRecordID" />
+                    <Field name="000001" />
+                    <Field name="000002" />
+                    <Field name="000003" />
+                    <Field name="000004" />
+                    <Field name="000005" />
+                    <Field name="000006" />
+                    <Field name="000007" />
+                    <Field name="*Unknown" />
+                  </Fields>
+                  <Expression />
+                  <NamesFromRows>
+                    <OnError>Ignore</OnError>
+                    <InputMode>Mapped</InputMode>
+                    <OldName>FRecordID</OldName>
+                    <NewName>Original</NewName>
+                  </NamesFromRows>
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <AnnotationText>Modify New Field Prefixes</AnnotationText>
+                  <DefaultAnnotationText />
+                  <Left value="False" />
+                </Annotation>
+                <MetaInfo connection="Output">
+                  <RecordInfo>
+                    <Field name="WRecordID" source="CrossTab:Group:Sum:" type="Int32" />
+                    <Field name="New_QCity" source="CrossTab:Header:Name:000001:Sum:" type="Double" />
+                    <Field name="New_QLand Area" source="CrossTab:Header:Name:000002:Sum:" type="Double" />
+                    <Field name="New_QHouseholds with Under 18" source="CrossTab:Header:Name:000003:Sum:" type="Double" />
+                    <Field name="New_QPopulation Density" source="CrossTab:Header:Name:000004:Sum:" type="Double" />
+                    <Field name="New_QTotal Families" source="CrossTab:Header:Name:000005:Sum:" type="Double" />
+                    <Field name="New_QTotal Pawdacity Sales" source="CrossTab:Header:Name:000006:Sum:" type="Double" />
+                    <Field name="New_Q2010 Census" source="CrossTab:Header:Name:000007:Sum:" type="Double" />
+                  </RecordInfo>
+                  <SortInfo>
+                    <Field field="WRecordID" order="Asc" />
+                  </SortInfo>
+                </MetaInfo>
+              </Properties>
+              <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDynamicRename" />
+            </Node>
+            <Node ToolID="47">
+              <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+                <Position x="1818" y="558" />
+              </GuiSettings>
+              <Properties>
+                <Configuration>
+                  <OrderChanged value="False" />
+                  <CommaDecimal value="False" />
+                  <SelectFields>
+                    <SelectField field="WRecordID" selected="True" />
+                    <SelectField field="IQR Outlier Ind" selected="True" />
+                    <SelectField field="StdDev1 Outlier" selected="True" rename="StdDev 1 Outlier Ind" />
+                    <SelectField field="StdDev2 Outlier" selected="True" rename="StdDev 2 Outlier Ind" />
+                    <SelectField field="*Unknown" selected="False" />
+                  </SelectFields>
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText />
+                  <Left value="False" />
+                </Annotation>
+                <MetaInfo connection="Output">
+                  <RecordInfo>
+                    <Field name="WRecordID" source="RecordID: Starting Value=1" type="Int32" />
+                    <Field name="IQR Outlier Ind" source="Formula: toNumber([Value]) &gt; [Upper Fence] OR &#xA;toNumber([Value]) &lt; [Lower Fence]" type="Bool" />
+                    <Field name="StdDev 1 Outlier Ind" source="Formula: toNumber([Value]) &gt; [Upper Limit 1] or &#xA;toNumber([Value]) &lt; [Lower Limit 1]" type="Bool" />
+                    <Field name="StdDev 2 Outlier Ind" source="Formula: toNumber([Value]) &gt; [Upper Limit 2] or &#xA;toNumber([Value]) &lt; [Lower Limit 2]" type="Bool" />
+                  </RecordInfo>
+                </MetaInfo>
+              </Properties>
+              <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+            </Node>
+            <Node ToolID="53">
+              <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+                <Position x="1722" y="678.0001" width="273" height="159.9999" />
+              </GuiSettings>
+              <Properties>
+                <Configuration>
+                  <Caption>Apply Min &amp; Max Value Constraints</Caption>
+                  <Style TextColor="#314c4a" FillColor="#8064a8" BorderColor="#314c4a" Transparency="75" Margin="10" />
+                  <Disabled value="False" />
+                  <Folded value="False" />
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText />
+                  <Left value="False" />
+                </Annotation>
+              </Properties>
+              <ChildNodes>
+                <Node ToolID="26">
+                  <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+                    <Position x="1828" y="707.0001" />
+                  </GuiSettings>
+                  <Properties>
+                    <Configuration>
+                      <FormulaFields>
+                        <FormulaField expression="MAX(MIN([Value], [Upper Fence]),[Lower Fence])" field="Value" size="8" type="Double" />
+                      </FormulaFields>
+                    </Configuration>
+                    <Annotation DisplayMode="0">
+                      <Name />
+                      <DefaultAnnotationText><![CDATA[Value = MAX(MIN([Value], [Upper Fence]),[Lower Fence])
+]]></DefaultAnnotationText>
+                      <Left value="False" />
+                    </Annotation>
+                    <MetaInfo connection="Output">
+                      <RecordInfo>
+                        <Field name="WRecordID" source="RecordID: Starting Value=1" type="Int32" />
+                        <Field name="Name" size="25" source="Transpose:" type="String" />
+                        <Field name="Value" source="Formula: MAX(MIN([Value], [Upper Fence]),[Lower Fence])" type="Double" />
+                        <Field name="Upper Fence" source="Formula: [Q3] + (1.5 * [iqr])" type="Double" />
+                        <Field name="Lower Fence" source="Formula: [Q1] - (1.5 * iqr)" type="Double" />
+                        <Field name="Mean" source="Summarize: Avg - X_IQR_DATA" type="Double" />
+                        <Field name="Lower Limit 1" source="Formula: [Avg_x_IQR_DATA] - [StdDev_x_IQR_DATA]" type="Double" />
+                        <Field name="Upper Limit 1" source="Formula: [Avg_x_IQR_DATA] + [StdDev_x_IQR_DATA]" type="Double" />
+                        <Field name="Lower Limit 2" source="Formula: [Avg_x_IQR_DATA] - 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                        <Field name="Upper Limit 2" source="Formula: [Avg_x_IQR_DATA] + 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                        <Field name="IQR Outlier Ind" source="Formula: toNumber([Value]) &gt; [Upper Fence] OR &#xA;toNumber([Value]) &lt; [Lower Fence]" type="Bool" />
+                        <Field name="StdDev1 Outlier" source="Formula: toNumber([Value]) &gt; [Upper Limit 1] or &#xA;toNumber([Value]) &lt; [Lower Limit 1]" type="Bool" />
+                        <Field name="StdDev2 Outlier" source="Formula: toNumber([Value]) &gt; [Upper Limit 2] or &#xA;toNumber([Value]) &lt; [Lower Limit 2]" type="Bool" />
+                      </RecordInfo>
+                      <SortInfo>
+                        <Field field="Name" order="" />
+                      </SortInfo>
+                    </MetaInfo>
+                  </Properties>
+                  <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+                </Node>
+                <Node ToolID="34">
+                  <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+                    <Position x="1732" y="707.0001" />
+                  </GuiSettings>
+                  <Properties>
+                    <Configuration>
+                      <OrderChanged value="False" />
+                      <CommaDecimal value="False" />
+                      <SelectFields>
+                        <SelectField field="Value" selected="True" type="Double" size="8" />
+                        <SelectField field="*Unknown" selected="True" />
+                      </SelectFields>
+                    </Configuration>
+                    <Annotation DisplayMode="0">
+                      <Name />
+                      <DefaultAnnotationText />
+                      <Left value="False" />
+                    </Annotation>
+                    <MetaInfo connection="Output">
+                      <RecordInfo>
+                        <Field name="WRecordID" source="RecordID: Starting Value=1" type="Int32" />
+                        <Field name="Name" size="25" source="Transpose:" type="String" />
+                        <Field name="Value" source="TextInput:" type="Double" />
+                        <Field name="Upper Fence" source="Formula: [Q3] + (1.5 * [iqr])" type="Double" />
+                        <Field name="Lower Fence" source="Formula: [Q1] - (1.5 * iqr)" type="Double" />
+                        <Field name="Mean" source="Summarize: Avg - X_IQR_DATA" type="Double" />
+                        <Field name="Lower Limit 1" source="Formula: [Avg_x_IQR_DATA] - [StdDev_x_IQR_DATA]" type="Double" />
+                        <Field name="Upper Limit 1" source="Formula: [Avg_x_IQR_DATA] + [StdDev_x_IQR_DATA]" type="Double" />
+                        <Field name="Lower Limit 2" source="Formula: [Avg_x_IQR_DATA] - 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                        <Field name="Upper Limit 2" source="Formula: [Avg_x_IQR_DATA] + 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                        <Field name="IQR Outlier Ind" source="Formula: toNumber([Value]) &gt; [Upper Fence] OR &#xA;toNumber([Value]) &lt; [Lower Fence]" type="Bool" />
+                        <Field name="StdDev1 Outlier" source="Formula: toNumber([Value]) &gt; [Upper Limit 1] or &#xA;toNumber([Value]) &lt; [Lower Limit 1]" type="Bool" />
+                        <Field name="StdDev2 Outlier" source="Formula: toNumber([Value]) &gt; [Upper Limit 2] or &#xA;toNumber([Value]) &lt; [Lower Limit 2]" type="Bool" />
+                      </RecordInfo>
+                      <SortInfo>
+                        <Field field="Name" order="" />
+                      </SortInfo>
+                    </MetaInfo>
+                  </Properties>
+                  <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+                </Node>
+                <Node ToolID="41">
+                  <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+                    <Position x="1926" y="707.0001" />
+                  </GuiSettings>
+                  <Properties>
+                    <Configuration>
+                      <OrderChanged value="False" />
+                      <CommaDecimal value="False" />
+                      <SelectFields>
+                        <SelectField field="Name" selected="True" type="V_String" size="255" />
+                        <SelectField field="*Unknown" selected="True" />
+                      </SelectFields>
+                    </Configuration>
+                    <Annotation DisplayMode="0">
+                      <Name />
+                      <DefaultAnnotationText />
+                      <Left value="False" />
+                    </Annotation>
+                    <MetaInfo connection="Output">
+                      <RecordInfo>
+                        <Field name="WRecordID" source="RecordID: Starting Value=1" type="Int32" />
+                        <Field name="Name" size="255" source="Transpose:" type="V_String" />
+                        <Field name="Value" source="Formula: MAX(MIN([Value], [Upper Fence]),[Lower Fence])" type="Double" />
+                        <Field name="Upper Fence" source="Formula: [Q3] + (1.5 * [iqr])" type="Double" />
+                        <Field name="Lower Fence" source="Formula: [Q1] - (1.5 * iqr)" type="Double" />
+                        <Field name="Mean" source="Summarize: Avg - X_IQR_DATA" type="Double" />
+                        <Field name="Lower Limit 1" source="Formula: [Avg_x_IQR_DATA] - [StdDev_x_IQR_DATA]" type="Double" />
+                        <Field name="Upper Limit 1" source="Formula: [Avg_x_IQR_DATA] + [StdDev_x_IQR_DATA]" type="Double" />
+                        <Field name="Lower Limit 2" source="Formula: [Avg_x_IQR_DATA] - 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                        <Field name="Upper Limit 2" source="Formula: [Avg_x_IQR_DATA] + 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                        <Field name="IQR Outlier Ind" source="Formula: toNumber([Value]) &gt; [Upper Fence] OR &#xA;toNumber([Value]) &lt; [Lower Fence]" type="Bool" />
+                        <Field name="StdDev1 Outlier" source="Formula: toNumber([Value]) &gt; [Upper Limit 1] or &#xA;toNumber([Value]) &lt; [Lower Limit 1]" type="Bool" />
+                        <Field name="StdDev2 Outlier" source="Formula: toNumber([Value]) &gt; [Upper Limit 2] or &#xA;toNumber([Value]) &lt; [Lower Limit 2]" type="Bool" />
+                      </RecordInfo>
+                    </MetaInfo>
+                  </Properties>
+                  <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+                </Node>
+              </ChildNodes>
+            </Node>
+            <Node ToolID="54">
+              <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+                <Position x="2334" y="865" width="339" height="145" />
+              </GuiSettings>
+              <Properties>
+                <Configuration>
+                  <Caption>Build Output Data</Caption>
+                  <Style TextColor="#314c4a" FillColor="#8064a8" BorderColor="#314c4a" Transparency="75" Margin="10" />
+                  <Disabled value="False" />
+                  <Folded value="False" />
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText />
+                  <Left value="False" />
+                </Annotation>
+              </Properties>
+              <ChildNodes>
+                <Node ToolID="27">
+                  <GuiSettings Plugin="AlteryxBasePluginsGui.CrossTab.CrossTab">
+                    <Position x="2573" y="894.4999" />
+                  </GuiSettings>
+                  <Properties>
+                    <Configuration>
+                      <GroupFields>
+                        <Field field="WRecordID" />
+                      </GroupFields>
+                      <HeaderField field="Name" />
+                      <DataField field="Value" />
+                      <Methods>
+                        <Method method="Sum" />
+                      </Methods>
+                    </Configuration>
+                    <Annotation DisplayMode="0">
+                      <Name />
+                      <AnnotationText>Cross Tab Data</AnnotationText>
+                      <DefaultAnnotationText />
+                      <Left value="False" />
+                    </Annotation>
+                    <MetaInfo connection="Output">
+                      <RecordInfo>
+                        <Field name="WRecordID" source="CrossTab:Group:Sum:" type="Int32" />
+                        <Field name="000001" source="CrossTab:Header:Name:000001:Sum:" type="Double" />
+                        <Field name="000002" source="CrossTab:Header:Name:000002:Sum:" type="Double" />
+                        <Field name="000003" source="CrossTab:Header:Name:000003:Sum:" type="Double" />
+                        <Field name="000004" source="CrossTab:Header:Name:000004:Sum:" type="Double" />
+                        <Field name="000005" source="CrossTab:Header:Name:000005:Sum:" type="Double" />
+                        <Field name="000006" source="CrossTab:Header:Name:000006:Sum:" type="Double" />
+                        <Field name="000007" source="CrossTab:Header:Name:000007:Sum:" type="Double" />
+                      </RecordInfo>
+                      <SortInfo>
+                        <Field field="WRecordID" order="Asc" />
+                      </SortInfo>
+                    </MetaInfo>
+                  </Properties>
+                  <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxCrossTab" />
+                </Node>
+                <Node ToolID="40">
+                  <GuiSettings Plugin="AlteryxBasePluginsGui.FindReplace.FindReplace">
+                    <Position x="2344" y="894" />
+                  </GuiSettings>
+                  <Properties>
+                    <Configuration>
+                      <FieldFind>Name</FieldFind>
+                      <FieldSearch>Original</FieldSearch>
+                      <ReplaceFoundField>FRecordID</ReplaceFoundField>
+                      <FindMode>FindWhole</FindMode>
+                      <NoCase value="False" />
+                      <MatchWholeWord value="False" />
+                      <ReplaceMode>Replace</ReplaceMode>
+                      <ReplaceMultipleFound value="True" />
+                      <ReplaceAppendFields>
+                        <Field field="FRecordID" />
+                        <Field field="Original" />
+                      </ReplaceAppendFields>
+                    </Configuration>
+                    <Annotation DisplayMode="0">
+                      <Name />
+                      <AnnotationText>Rename Fields (Maintain Column Order)</AnnotationText>
+                      <DefaultAnnotationText />
+                      <Left value="False" />
+                    </Annotation>
+                    <MetaInfo connection="Output">
+                      <RecordInfo>
+                        <Field name="WRecordID" source="RecordID: Starting Value=1" type="Int32" />
+                        <Field name="Name" size="255" source="Transpose:" type="V_String" />
+                        <Field name="Value" source="Formula: MAX(MIN([Value], [Upper Fence]),[Lower Fence])" type="Double" />
+                        <Field name="Upper Fence" source="Formula: [Q3] + (1.5 * [iqr])" type="Double" />
+                        <Field name="Lower Fence" source="Formula: [Q1] - (1.5 * iqr)" type="Double" />
+                        <Field name="Mean" source="Summarize: Avg - X_IQR_DATA" type="Double" />
+                        <Field name="Lower Limit 1" source="Formula: [Avg_x_IQR_DATA] - [StdDev_x_IQR_DATA]" type="Double" />
+                        <Field name="Upper Limit 1" source="Formula: [Avg_x_IQR_DATA] + [StdDev_x_IQR_DATA]" type="Double" />
+                        <Field name="Lower Limit 2" source="Formula: [Avg_x_IQR_DATA] - 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                        <Field name="Upper Limit 2" source="Formula: [Avg_x_IQR_DATA] + 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                        <Field name="IQR Outlier Ind" source="Formula: toNumber([Value]) &gt; [Upper Fence] OR &#xA;toNumber([Value]) &lt; [Lower Fence]" type="Bool" />
+                        <Field name="StdDev1 Outlier" source="Formula: toNumber([Value]) &gt; [Upper Limit 1] or &#xA;toNumber([Value]) &lt; [Lower Limit 1]" type="Bool" />
+                        <Field name="StdDev2 Outlier" source="Formula: toNumber([Value]) &gt; [Upper Limit 2] or &#xA;toNumber([Value]) &lt; [Lower Limit 2]" type="Bool" />
+                      </RecordInfo>
+                    </MetaInfo>
+                  </Properties>
+                  <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFindReplace" />
+                </Node>
+                <Node ToolID="43">
+                  <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+                    <Position x="2464" y="894" />
+                  </GuiSettings>
+                  <Properties>
+                    <Configuration>
+                      <SortInfo locale="0">
+                        <Field field="WRecordID" order="Ascending" />
+                        <Field field="Name" order="Ascending" />
+                      </SortInfo>
+                    </Configuration>
+                    <Annotation DisplayMode="0">
+                      <Name />
+                      <AnnotationText>Sort Fields (Original Order)</AnnotationText>
+                      <DefaultAnnotationText>WRecordID - Ascending
+Name - Ascending</DefaultAnnotationText>
+                      <Left value="False" />
+                    </Annotation>
+                    <MetaInfo connection="Output">
+                      <RecordInfo>
+                        <Field name="WRecordID" source="RecordID: Starting Value=1" type="Int32" />
+                        <Field name="Name" size="255" source="Transpose:" type="V_String" />
+                        <Field name="Value" source="Formula: MAX(MIN([Value], [Upper Fence]),[Lower Fence])" type="Double" />
+                        <Field name="Upper Fence" source="Formula: [Q3] + (1.5 * [iqr])" type="Double" />
+                        <Field name="Lower Fence" source="Formula: [Q1] - (1.5 * iqr)" type="Double" />
+                        <Field name="Mean" source="Summarize: Avg - X_IQR_DATA" type="Double" />
+                        <Field name="Lower Limit 1" source="Formula: [Avg_x_IQR_DATA] - [StdDev_x_IQR_DATA]" type="Double" />
+                        <Field name="Upper Limit 1" source="Formula: [Avg_x_IQR_DATA] + [StdDev_x_IQR_DATA]" type="Double" />
+                        <Field name="Lower Limit 2" source="Formula: [Avg_x_IQR_DATA] - 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                        <Field name="Upper Limit 2" source="Formula: [Avg_x_IQR_DATA] + 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                        <Field name="IQR Outlier Ind" source="Formula: toNumber([Value]) &gt; [Upper Fence] OR &#xA;toNumber([Value]) &lt; [Lower Fence]" type="Bool" />
+                        <Field name="StdDev1 Outlier" source="Formula: toNumber([Value]) &gt; [Upper Limit 1] or &#xA;toNumber([Value]) &lt; [Lower Limit 1]" type="Bool" />
+                        <Field name="StdDev2 Outlier" source="Formula: toNumber([Value]) &gt; [Upper Limit 2] or &#xA;toNumber([Value]) &lt; [Lower Limit 2]" type="Bool" />
+                      </RecordInfo>
+                      <SortInfo locale="0">
+                        <Field field="WRecordID" order="Ascending" />
+                        <Field field="Name" order="Ascending" />
+                      </SortInfo>
+                    </MetaInfo>
+                  </Properties>
+                  <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+                </Node>
+              </ChildNodes>
+            </Node>
+            <Node ToolID="52">
+              <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+                <Position x="1890" y="1278" width="395" height="145" />
+              </GuiSettings>
+              <Properties>
+                <Configuration>
+                  <Caption>Mange Column Field Names</Caption>
+                  <Style TextColor="#314c4a" FillColor="#8064a8" BorderColor="#314c4a" Transparency="75" Margin="10" />
+                  <Disabled value="False" />
+                  <Folded value="False" />
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText />
+                  <Left value="False" />
+                </Annotation>
+              </Properties>
+              <ChildNodes>
+                <Node ToolID="28">
+                  <GuiSettings Plugin="AlteryxBasePluginsGui.FieldInfo.FieldInfo">
+                    <Position x="1900" y="1307" />
+                  </GuiSettings>
+                  <Properties>
+                    <Configuration />
+                    <Annotation DisplayMode="0">
+                      <Name />
+                      <DefaultAnnotationText />
+                      <Left value="False" />
+                    </Annotation>
+                    <MetaInfo connection="Output">
+                      <RecordInfo>
+                        <Field name="Name" size="25" source="FieldInfo" type="V_String" />
+                        <Field name="Type" size="6" source="FieldInfo" type="String" />
+                        <Field name="Size" source="FieldInfo" type="Int32" />
+                        <Field name="Scale" source="FieldInfo" type="Int32" />
+                        <Field name="Source" size="10" source="FieldInfo" type="V_WString" />
+                        <Field name="Description" size="1" source="FieldInfo" type="V_WString" />
+                      </RecordInfo>
+                    </MetaInfo>
+                  </Properties>
+                  <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFieldInfo" />
+                </Node>
+                <Node ToolID="29">
+                  <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+                    <Position x="1998" y="1307" />
+                  </GuiSettings>
+                  <Properties>
+                    <Configuration>
+                      <OrderChanged value="False" />
+                      <CommaDecimal value="False" />
+                      <SelectFields>
+                        <SelectField field="Name" selected="True" rename="Original" size="255" />
+                        <SelectField field="Type" selected="False" />
+                        <SelectField field="Size" selected="False" />
+                        <SelectField field="Scale" selected="False" />
+                        <SelectField field="Source" selected="False" />
+                        <SelectField field="Description" selected="False" />
+                        <SelectField field="*Unknown" selected="True" />
+                      </SelectFields>
+                    </Configuration>
+                    <Annotation DisplayMode="0">
+                      <Name />
+                      <DefaultAnnotationText />
+                      <Left value="False" />
+                    </Annotation>
+                    <MetaInfo connection="Output">
+                      <RecordInfo>
+                        <Field name="Original" size="255" source="FieldInfo" type="V_String" />
+                      </RecordInfo>
+                    </MetaInfo>
+                  </Properties>
+                  <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+                </Node>
+                <Node ToolID="35">
+                  <GuiSettings Plugin="AlteryxBasePluginsGui.RecordID.RecordID">
+                    <Position x="2092" y="1307" />
+                  </GuiSettings>
+                  <Properties>
+                    <Configuration>
+                      <FieldName>FRecordID</FieldName>
+                      <StartValue>1</StartValue>
+                      <FieldType size="6">String</FieldType>
+                      <FieldSize>6</FieldSize>
+                      <Position>0</Position>
+                    </Configuration>
+                    <Annotation DisplayMode="0">
+                      <Name />
+                      <DefaultAnnotationText />
+                      <Left value="False" />
+                    </Annotation>
+                    <MetaInfo connection="Output">
+                      <RecordInfo>
+                        <Field name="FRecordID" size="6" source="RecordID: Starting Value=1" type="String" />
+                        <Field name="Original" size="255" source="FieldInfo" type="V_String" />
+                      </RecordInfo>
+                    </MetaInfo>
+                  </Properties>
+                  <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxRecordID" />
+                </Node>
+                <Node ToolID="44">
+                  <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+                    <Position x="2212" y="1307" />
+                  </GuiSettings>
+                  <Properties>
+                    <Configuration>
+                      <FormulaFields>
+                        <FormulaField expression="&quot;New_&quot;+[Original]" field="Original" size="255" type="V_String" />
+                      </FormulaFields>
+                    </Configuration>
+                    <Annotation DisplayMode="0">
+                      <Name />
+                      <DefaultAnnotationText><![CDATA[Original = "New_"+[Original]
+]]></DefaultAnnotationText>
+                      <Left value="False" />
+                    </Annotation>
+                    <MetaInfo connection="Output">
+                      <RecordInfo>
+                        <Field name="FRecordID" size="6" source="RecordID: Starting Value=1" type="String" />
+                        <Field name="Original" size="255" source="Formula: &quot;New_&quot;+[Original]" type="V_String" />
+                      </RecordInfo>
+                    </MetaInfo>
+                  </Properties>
+                  <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+                </Node>
+              </ChildNodes>
+            </Node>
+            <Node ToolID="46">
+              <GuiSettings Plugin="AlteryxBasePluginsGui.DetourEnd.DetourEnd">
+                <Position x="2766" y="559.0001" />
+              </GuiSettings>
+              <Properties>
+                <Configuration />
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText />
+                  <Left value="False" />
+                </Annotation>
+                <MetaInfo connection="Output">
+                  <RecordInfo>
+                    <Field name="WRecordID" source="Summarize: GroupBy - WRecordID" type="Int32" />
+                    <Field name="IQR Outlier Ind" source="Formula: toNumber([Value]) &gt; [Upper Fence] OR &#xA;toNumber([Value]) &lt; [Lower Fence]" type="Bool" />
+                    <Field name="StdDev 1 Outlier Ind" source="Formula: toNumber([Value]) &gt; [Upper Limit 1] or &#xA;toNumber([Value]) &lt; [Lower Limit 1]" type="Bool" />
+                    <Field name="StdDev 2 Outlier Ind" source="Formula: toNumber([Value]) &gt; [Upper Limit 2] or &#xA;toNumber([Value]) &lt; [Lower Limit 2]" type="Bool" />
+                  </RecordInfo>
+                  <SortInfo>
+                    <Field field="WRecordID" order="Asc" />
+                  </SortInfo>
+                </MetaInfo>
+              </Properties>
+              <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDetourEnd" />
+            </Node>
+            <Node ToolID="92">
+              <GuiSettings Plugin="AlteryxBasePluginsGui.Detour.Detour">
+                <Position x="1626" y="714.0003" />
+              </GuiSettings>
+              <Properties>
+                <Configuration>
+                  <DetourRight value="False" />
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText />
+                  <Left value="False" />
+                </Annotation>
+                <MetaInfo connection="Left">
+                  <RecordInfo>
+                    <Field name="WRecordID" source="RecordID: Starting Value=1" type="Int32" />
+                    <Field name="Name" size="25" source="Transpose:" type="String" />
+                    <Field name="Value" size="12" source="TextInput:" type="V_String" />
+                    <Field name="Upper Fence" source="Formula: [Q3] + (1.5 * [iqr])" type="Double" />
+                    <Field name="Lower Fence" source="Formula: [Q1] - (1.5 * iqr)" type="Double" />
+                    <Field name="Mean" source="Summarize: Avg - X_IQR_DATA" type="Double" />
+                    <Field name="Lower Limit 1" source="Formula: [Avg_x_IQR_DATA] - [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Upper Limit 1" source="Formula: [Avg_x_IQR_DATA] + [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Lower Limit 2" source="Formula: [Avg_x_IQR_DATA] - 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Upper Limit 2" source="Formula: [Avg_x_IQR_DATA] + 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="IQR Outlier Ind" source="Formula: toNumber([Value]) &gt; [Upper Fence] OR &#xA;toNumber([Value]) &lt; [Lower Fence]" type="Bool" />
+                    <Field name="StdDev1 Outlier" source="Formula: toNumber([Value]) &gt; [Upper Limit 1] or &#xA;toNumber([Value]) &lt; [Lower Limit 1]" type="Bool" />
+                    <Field name="StdDev2 Outlier" source="Formula: toNumber([Value]) &gt; [Upper Limit 2] or &#xA;toNumber([Value]) &lt; [Lower Limit 2]" type="Bool" />
+                  </RecordInfo>
+                  <SortInfo>
+                    <Field field="Name" order="" />
+                  </SortInfo>
+                </MetaInfo>
+                <MetaInfo connection="Right">
+                  <RecordInfo>
+                    <Field name="WRecordID" source="RecordID: Starting Value=1" type="Int32" />
+                    <Field name="Name" size="25" source="Transpose:" type="String" />
+                    <Field name="Value" size="12" source="TextInput:" type="V_String" />
+                    <Field name="Upper Fence" source="Formula: [Q3] + (1.5 * [iqr])" type="Double" />
+                    <Field name="Lower Fence" source="Formula: [Q1] - (1.5 * iqr)" type="Double" />
+                    <Field name="Mean" source="Summarize: Avg - X_IQR_DATA" type="Double" />
+                    <Field name="Lower Limit 1" source="Formula: [Avg_x_IQR_DATA] - [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Upper Limit 1" source="Formula: [Avg_x_IQR_DATA] + [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Lower Limit 2" source="Formula: [Avg_x_IQR_DATA] - 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Upper Limit 2" source="Formula: [Avg_x_IQR_DATA] + 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="IQR Outlier Ind" source="Formula: toNumber([Value]) &gt; [Upper Fence] OR &#xA;toNumber([Value]) &lt; [Lower Fence]" type="Bool" />
+                    <Field name="StdDev1 Outlier" source="Formula: toNumber([Value]) &gt; [Upper Limit 1] or &#xA;toNumber([Value]) &lt; [Lower Limit 1]" type="Bool" />
+                    <Field name="StdDev2 Outlier" source="Formula: toNumber([Value]) &gt; [Upper Limit 2] or &#xA;toNumber([Value]) &lt; [Lower Limit 2]" type="Bool" />
+                  </RecordInfo>
+                  <SortInfo>
+                    <Field field="Name" order="" />
+                  </SortInfo>
+                </MetaInfo>
+              </Properties>
+              <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDetour" />
+            </Node>
+            <Node ToolID="93">
+              <GuiSettings Plugin="AlteryxBasePluginsGui.DetourEnd.DetourEnd">
+                <Position x="2238" y="882" />
+              </GuiSettings>
+              <Properties>
+                <Configuration />
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText />
+                  <Left value="False" />
+                </Annotation>
+                <MetaInfo connection="Output">
+                  <RecordInfo>
+                    <Field name="WRecordID" source="RecordID: Starting Value=1" type="Int32" />
+                    <Field name="Name" size="255" source="Transpose:" type="V_String" />
+                    <Field name="Value" source="Formula: MAX(MIN([Value], [Upper Fence]),[Lower Fence])" type="Double" />
+                    <Field name="Upper Fence" source="Formula: [Q3] + (1.5 * [iqr])" type="Double" />
+                    <Field name="Lower Fence" source="Formula: [Q1] - (1.5 * iqr)" type="Double" />
+                    <Field name="Mean" source="Summarize: Avg - X_IQR_DATA" type="Double" />
+                    <Field name="Lower Limit 1" source="Formula: [Avg_x_IQR_DATA] - [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Upper Limit 1" source="Formula: [Avg_x_IQR_DATA] + [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Lower Limit 2" source="Formula: [Avg_x_IQR_DATA] - 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Upper Limit 2" source="Formula: [Avg_x_IQR_DATA] + 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="IQR Outlier Ind" source="Formula: toNumber([Value]) &gt; [Upper Fence] OR &#xA;toNumber([Value]) &lt; [Lower Fence]" type="Bool" />
+                    <Field name="StdDev1 Outlier" source="Formula: toNumber([Value]) &gt; [Upper Limit 1] or &#xA;toNumber([Value]) &lt; [Lower Limit 1]" type="Bool" />
+                    <Field name="StdDev2 Outlier" source="Formula: toNumber([Value]) &gt; [Upper Limit 2] or &#xA;toNumber([Value]) &lt; [Lower Limit 2]" type="Bool" />
+                  </RecordInfo>
+                </MetaInfo>
+              </Properties>
+              <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDetourEnd" />
+            </Node>
+            <Node ToolID="97">
+              <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+                <Position x="1808" y="852.9999" width="271" height="190.0001" />
+              </GuiSettings>
+              <Properties>
+                <Configuration>
+                  <Caption>Apply Mean Value</Caption>
+                  <Style TextColor="#314c4a" FillColor="#8064a8" BorderColor="#314c4a" Transparency="75" Margin="10" />
+                  <Disabled value="False" />
+                  <Folded value="False" />
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText />
+                  <Left value="False" />
+                </Annotation>
+              </Properties>
+              <ChildNodes>
+                <Node ToolID="94">
+                  <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+                    <Position x="1914" y="881.9999" />
+                  </GuiSettings>
+                  <Properties>
+                    <Configuration>
+                      <FormulaFields>
+                        <FormulaField expression="IIF([Value]&lt;[Lower Fence]||[Value]&gt;[Upper Fence]||IsNull([Value]),[Mean],[Value])" field="Value" size="8" type="Double" />
+                      </FormulaFields>
+                    </Configuration>
+                    <Annotation DisplayMode="0">
+                      <Name />
+                      <DefaultAnnotationText>Value = IIF([Value]&lt;[Lower Fence]||[Value]&gt;[Upper Fence]||IsNull([Value]),[Mean]...</DefaultAnnotationText>
+                      <Left value="False" />
+                    </Annotation>
+                    <MetaInfo connection="Output">
+                      <RecordInfo>
+                        <Field name="WRecordID" source="RecordID: Starting Value=1" type="Int32" />
+                        <Field name="Name" size="24" source="Transpose:" type="String" />
+                        <Field name="Value" source="Formula: IIF([Value]&lt;[Lower Fence]||[Value]&gt;[Upper Fence]||IsNull([Value]),[Mean],[Value])" type="Double" />
+                        <Field name="Upper Fence" source="Formula: [Q3] + (1.5 * [iqr])" type="Double" />
+                        <Field name="Lower Fence" source="Formula: [Q1] - (1.5 * iqr)" type="Double" />
+                        <Field name="Mean" source="Summarize: Avg - X_IQR_DATA" type="Double" />
+                        <Field name="Lower Limit 1" source="Formula: [Avg_x_IQR_DATA] - [StdDev_x_IQR_DATA]" type="Double" />
+                        <Field name="Upper Limit 1" source="Formula: [Avg_x_IQR_DATA] + [StdDev_x_IQR_DATA]" type="Double" />
+                        <Field name="Lower Limit 2" source="Formula: [Avg_x_IQR_DATA] - 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                        <Field name="Upper Limit 2" source="Formula: [Avg_x_IQR_DATA] + 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                        <Field name="IQR Outlier Ind" source="Formula: [Value] &gt; [Upper Fence] OR &#xA;[Value] &lt; [Lower Fence]" type="Bool" />
+                        <Field name="StdDev1 Outlier" source="Formula: [Value] &gt; [Upper Limit 1] or &#xA;[Value] &lt; [Lower Limit 1]" type="Bool" />
+                        <Field name="StdDev2 Outlier" source="Formula: [Value] &gt; [Upper Limit 2] or &#xA;[Value] &lt; [Lower Limit 2]" type="Bool" />
+                      </RecordInfo>
+                      <SortInfo>
+                        <Field field="Name" order="" />
+                      </SortInfo>
+                    </MetaInfo>
+                  </Properties>
+                  <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+                </Node>
+                <Node ToolID="95">
+                  <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+                    <Position x="1818" y="881.9999" />
+                  </GuiSettings>
+                  <Properties>
+                    <Configuration>
+                      <OrderChanged value="False" />
+                      <CommaDecimal value="False" />
+                      <SelectFields>
+                        <SelectField field="Value" selected="True" type="Double" size="8" />
+                        <SelectField field="*Unknown" selected="True" />
+                      </SelectFields>
+                    </Configuration>
+                    <Annotation DisplayMode="0">
+                      <Name />
+                      <DefaultAnnotationText />
+                      <Left value="False" />
+                    </Annotation>
+                    <MetaInfo connection="Output">
+                      <RecordInfo>
+                        <Field name="WRecordID" source="RecordID: Starting Value=1" type="Int32" />
+                        <Field name="Name" size="24" source="Transpose:" type="String" />
+                        <Field name="Value" source="TextInput:" type="Double" />
+                        <Field name="Upper Fence" source="Formula: [Q3] + (1.5 * [iqr])" type="Double" />
+                        <Field name="Lower Fence" source="Formula: [Q1] - (1.5 * iqr)" type="Double" />
+                        <Field name="Mean" source="Summarize: Avg - X_IQR_DATA" type="Double" />
+                        <Field name="Lower Limit 1" source="Formula: [Avg_x_IQR_DATA] - [StdDev_x_IQR_DATA]" type="Double" />
+                        <Field name="Upper Limit 1" source="Formula: [Avg_x_IQR_DATA] + [StdDev_x_IQR_DATA]" type="Double" />
+                        <Field name="Lower Limit 2" source="Formula: [Avg_x_IQR_DATA] - 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                        <Field name="Upper Limit 2" source="Formula: [Avg_x_IQR_DATA] + 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                        <Field name="IQR Outlier Ind" source="Formula: [Value] &gt; [Upper Fence] OR &#xA;[Value] &lt; [Lower Fence]" type="Bool" />
+                        <Field name="StdDev1 Outlier" source="Formula: [Value] &gt; [Upper Limit 1] or &#xA;[Value] &lt; [Lower Limit 1]" type="Bool" />
+                        <Field name="StdDev2 Outlier" source="Formula: [Value] &gt; [Upper Limit 2] or &#xA;[Value] &lt; [Lower Limit 2]" type="Bool" />
+                      </RecordInfo>
+                      <SortInfo>
+                        <Field field="Name" order="" />
+                      </SortInfo>
+                    </MetaInfo>
+                  </Properties>
+                  <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+                </Node>
+                <Node ToolID="96">
+                  <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+                    <Position x="2010" y="881.9999" />
+                  </GuiSettings>
+                  <Properties>
+                    <Configuration>
+                      <OrderChanged value="False" />
+                      <CommaDecimal value="False" />
+                      <SelectFields>
+                        <SelectField field="Name" selected="True" type="V_String" size="255" />
+                        <SelectField field="*Unknown" selected="True" />
+                      </SelectFields>
+                    </Configuration>
+                    <Annotation DisplayMode="0">
+                      <Name />
+                      <DefaultAnnotationText />
+                      <Left value="False" />
+                    </Annotation>
+                    <MetaInfo connection="Output">
+                      <RecordInfo>
+                        <Field name="WRecordID" source="RecordID: Starting Value=1" type="Int32" />
+                        <Field name="Name" size="255" source="Transpose:" type="V_String" />
+                        <Field name="Value" source="Formula: IIF([Value]&lt;[Lower Fence]||[Value]&gt;[Upper Fence]||IsNull([Value]),[Mean],[Value])" type="Double" />
+                        <Field name="Upper Fence" source="Formula: [Q3] + (1.5 * [iqr])" type="Double" />
+                        <Field name="Lower Fence" source="Formula: [Q1] - (1.5 * iqr)" type="Double" />
+                        <Field name="Mean" source="Summarize: Avg - X_IQR_DATA" type="Double" />
+                        <Field name="Lower Limit 1" source="Formula: [Avg_x_IQR_DATA] - [StdDev_x_IQR_DATA]" type="Double" />
+                        <Field name="Upper Limit 1" source="Formula: [Avg_x_IQR_DATA] + [StdDev_x_IQR_DATA]" type="Double" />
+                        <Field name="Lower Limit 2" source="Formula: [Avg_x_IQR_DATA] - 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                        <Field name="Upper Limit 2" source="Formula: [Avg_x_IQR_DATA] + 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                        <Field name="IQR Outlier Ind" source="Formula: [Value] &gt; [Upper Fence] OR &#xA;[Value] &lt; [Lower Fence]" type="Bool" />
+                        <Field name="StdDev1 Outlier" source="Formula: [Value] &gt; [Upper Limit 1] or &#xA;[Value] &lt; [Lower Limit 1]" type="Bool" />
+                        <Field name="StdDev2 Outlier" source="Formula: [Value] &gt; [Upper Limit 2] or &#xA;[Value] &lt; [Lower Limit 2]" type="Bool" />
+                      </RecordInfo>
+                    </MetaInfo>
+                  </Properties>
+                  <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+                </Node>
+              </ChildNodes>
+            </Node>
+            <Node ToolID="103">
+              <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+                <Position x="1818" y="1074" width="271" height="190" />
+              </GuiSettings>
+              <Properties>
+                <Configuration>
+                  <Caption>Apply STD Deviation Value</Caption>
+                  <Style TextColor="#314c4a" FillColor="#8064a8" BorderColor="#314c4a" Transparency="75" Margin="10" />
+                  <Disabled value="False" />
+                  <Folded value="False" />
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText />
+                  <Left value="False" />
+                </Annotation>
+              </Properties>
+              <ChildNodes>
+                <Node ToolID="100">
+                  <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+                    <Position x="1924" y="1103" />
+                  </GuiSettings>
+                  <Properties>
+                    <Configuration>
+                      <FormulaFields>
+                        <FormulaField expression="IF     [Value]&lt;[Lower Fence] THEN [Lower Limit 1] &#xA;ELSEIF [Value]&gt;[Upper Fence] THEN [Upper Limit 1]&#xA;ELSE   [Value]&#xA;ENDIF" field="Value" size="8" type="Double" />
+                      </FormulaFields>
+                    </Configuration>
+                    <Annotation DisplayMode="0">
+                      <Name />
+                      <DefaultAnnotationText>Value = IF     [Value]&lt;[Lower Fence] THEN [Lower Limit 1] 
+ELSEIF [Value]&gt;[Upper...</DefaultAnnotationText>
+                      <Left value="False" />
+                    </Annotation>
+                    <MetaInfo connection="Output">
+                      <RecordInfo>
+                        <Field name="WRecordID" source="RecordID: Starting Value=1" type="Int32" />
+                        <Field name="Name" size="24" source="Transpose:" type="String" />
+                        <Field name="Value" source="Formula: IF     [Value]&lt;[Lower Fence] THEN [Lower Limit 1] &#xA;ELSEIF [Value]&gt;[Upper Fence] THEN [Upper Limit 1]&#xA;ELSE   [Value]&#xA;ENDIF" type="Double" />
+                        <Field name="Upper Fence" source="Formula: [Q3] + (1.5 * [iqr])" type="Double" />
+                        <Field name="Lower Fence" source="Formula: [Q1] - (1.5 * iqr)" type="Double" />
+                        <Field name="Mean" source="Summarize: Avg - X_IQR_DATA" type="Double" />
+                        <Field name="Lower Limit 1" source="Formula: [Avg_x_IQR_DATA] - [StdDev_x_IQR_DATA]" type="Double" />
+                        <Field name="Upper Limit 1" source="Formula: [Avg_x_IQR_DATA] + [StdDev_x_IQR_DATA]" type="Double" />
+                        <Field name="Lower Limit 2" source="Formula: [Avg_x_IQR_DATA] - 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                        <Field name="Upper Limit 2" source="Formula: [Avg_x_IQR_DATA] + 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                        <Field name="IQR Outlier Ind" source="Formula: [Value] &gt; [Upper Fence] OR &#xA;[Value] &lt; [Lower Fence]" type="Bool" />
+                        <Field name="StdDev1 Outlier" source="Formula: [Value] &gt; [Upper Limit 1] or &#xA;[Value] &lt; [Lower Limit 1]" type="Bool" />
+                        <Field name="StdDev2 Outlier" source="Formula: [Value] &gt; [Upper Limit 2] or &#xA;[Value] &lt; [Lower Limit 2]" type="Bool" />
+                      </RecordInfo>
+                      <SortInfo>
+                        <Field field="Name" order="" />
+                      </SortInfo>
+                    </MetaInfo>
+                  </Properties>
+                  <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+                </Node>
+                <Node ToolID="101">
+                  <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+                    <Position x="1828" y="1103" />
+                  </GuiSettings>
+                  <Properties>
+                    <Configuration>
+                      <OrderChanged value="False" />
+                      <CommaDecimal value="False" />
+                      <SelectFields>
+                        <SelectField field="Value" selected="True" type="Double" size="8" />
+                        <SelectField field="*Unknown" selected="True" />
+                      </SelectFields>
+                    </Configuration>
+                    <Annotation DisplayMode="0">
+                      <Name />
+                      <DefaultAnnotationText />
+                      <Left value="False" />
+                    </Annotation>
+                    <MetaInfo connection="Output">
+                      <RecordInfo>
+                        <Field name="WRecordID" source="RecordID: Starting Value=1" type="Int32" />
+                        <Field name="Name" size="24" source="Transpose:" type="String" />
+                        <Field name="Value" source="TextInput:" type="Double" />
+                        <Field name="Upper Fence" source="Formula: [Q3] + (1.5 * [iqr])" type="Double" />
+                        <Field name="Lower Fence" source="Formula: [Q1] - (1.5 * iqr)" type="Double" />
+                        <Field name="Mean" source="Summarize: Avg - X_IQR_DATA" type="Double" />
+                        <Field name="Lower Limit 1" source="Formula: [Avg_x_IQR_DATA] - [StdDev_x_IQR_DATA]" type="Double" />
+                        <Field name="Upper Limit 1" source="Formula: [Avg_x_IQR_DATA] + [StdDev_x_IQR_DATA]" type="Double" />
+                        <Field name="Lower Limit 2" source="Formula: [Avg_x_IQR_DATA] - 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                        <Field name="Upper Limit 2" source="Formula: [Avg_x_IQR_DATA] + 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                        <Field name="IQR Outlier Ind" source="Formula: [Value] &gt; [Upper Fence] OR &#xA;[Value] &lt; [Lower Fence]" type="Bool" />
+                        <Field name="StdDev1 Outlier" source="Formula: [Value] &gt; [Upper Limit 1] or &#xA;[Value] &lt; [Lower Limit 1]" type="Bool" />
+                        <Field name="StdDev2 Outlier" source="Formula: [Value] &gt; [Upper Limit 2] or &#xA;[Value] &lt; [Lower Limit 2]" type="Bool" />
+                      </RecordInfo>
+                      <SortInfo>
+                        <Field field="Name" order="" />
+                      </SortInfo>
+                    </MetaInfo>
+                  </Properties>
+                  <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+                </Node>
+                <Node ToolID="102">
+                  <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+                    <Position x="2020" y="1103" />
+                  </GuiSettings>
+                  <Properties>
+                    <Configuration>
+                      <OrderChanged value="False" />
+                      <CommaDecimal value="False" />
+                      <SelectFields>
+                        <SelectField field="Name" selected="True" type="V_String" size="255" />
+                        <SelectField field="*Unknown" selected="True" />
+                      </SelectFields>
+                    </Configuration>
+                    <Annotation DisplayMode="0">
+                      <Name />
+                      <DefaultAnnotationText />
+                      <Left value="False" />
+                    </Annotation>
+                    <MetaInfo connection="Output">
+                      <RecordInfo>
+                        <Field name="WRecordID" source="RecordID: Starting Value=1" type="Int32" />
+                        <Field name="Name" size="255" source="Transpose:" type="V_String" />
+                        <Field name="Value" source="Formula: IF     [Value]&lt;[Lower Fence] THEN [Lower Limit 1] &#xA;ELSEIF [Value]&gt;[Upper Fence] THEN [Upper Limit 1]&#xA;ELSE   [Value]&#xA;ENDIF" type="Double" />
+                        <Field name="Upper Fence" source="Formula: [Q3] + (1.5 * [iqr])" type="Double" />
+                        <Field name="Lower Fence" source="Formula: [Q1] - (1.5 * iqr)" type="Double" />
+                        <Field name="Mean" source="Summarize: Avg - X_IQR_DATA" type="Double" />
+                        <Field name="Lower Limit 1" source="Formula: [Avg_x_IQR_DATA] - [StdDev_x_IQR_DATA]" type="Double" />
+                        <Field name="Upper Limit 1" source="Formula: [Avg_x_IQR_DATA] + [StdDev_x_IQR_DATA]" type="Double" />
+                        <Field name="Lower Limit 2" source="Formula: [Avg_x_IQR_DATA] - 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                        <Field name="Upper Limit 2" source="Formula: [Avg_x_IQR_DATA] + 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                        <Field name="IQR Outlier Ind" source="Formula: [Value] &gt; [Upper Fence] OR &#xA;[Value] &lt; [Lower Fence]" type="Bool" />
+                        <Field name="StdDev1 Outlier" source="Formula: [Value] &gt; [Upper Limit 1] or &#xA;[Value] &lt; [Lower Limit 1]" type="Bool" />
+                        <Field name="StdDev2 Outlier" source="Formula: [Value] &gt; [Upper Limit 2] or &#xA;[Value] &lt; [Lower Limit 2]" type="Bool" />
+                      </RecordInfo>
+                    </MetaInfo>
+                  </Properties>
+                  <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+                </Node>
+              </ChildNodes>
+            </Node>
+            <Node ToolID="104">
+              <GuiSettings Plugin="AlteryxBasePluginsGui.Detour.Detour">
+                <Position x="1698" y="894.0001" />
+              </GuiSettings>
+              <Properties>
+                <Configuration>
+                  <DetourRight value="True" />
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText />
+                  <Left value="False" />
+                </Annotation>
+                <MetaInfo connection="Left">
+                  <RecordInfo>
+                    <Field name="WRecordID" source="RecordID: Starting Value=1" type="Int32" />
+                    <Field name="Name" size="24" source="Transpose:" type="String" />
+                    <Field name="Value" source="TextInput:" type="Int32" />
+                    <Field name="Upper Fence" source="Formula: [Q3] + (1.5 * [iqr])" type="Double" />
+                    <Field name="Lower Fence" source="Formula: [Q1] - (1.5 * iqr)" type="Double" />
+                    <Field name="Mean" source="Summarize: Avg - X_IQR_DATA" type="Double" />
+                    <Field name="Lower Limit 1" source="Formula: [Avg_x_IQR_DATA] - [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Upper Limit 1" source="Formula: [Avg_x_IQR_DATA] + [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Lower Limit 2" source="Formula: [Avg_x_IQR_DATA] - 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Upper Limit 2" source="Formula: [Avg_x_IQR_DATA] + 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="IQR Outlier Ind" source="Formula: [Value] &gt; [Upper Fence] OR &#xA;[Value] &lt; [Lower Fence]" type="Bool" />
+                    <Field name="StdDev1 Outlier" source="Formula: [Value] &gt; [Upper Limit 1] or &#xA;[Value] &lt; [Lower Limit 1]" type="Bool" />
+                    <Field name="StdDev2 Outlier" source="Formula: [Value] &gt; [Upper Limit 2] or &#xA;[Value] &lt; [Lower Limit 2]" type="Bool" />
+                  </RecordInfo>
+                  <SortInfo>
+                    <Field field="Name" order="" />
+                  </SortInfo>
+                </MetaInfo>
+                <MetaInfo connection="Right">
+                  <RecordInfo>
+                    <Field name="WRecordID" source="RecordID: Starting Value=1" type="Int32" />
+                    <Field name="Name" size="24" source="Transpose:" type="String" />
+                    <Field name="Value" source="TextInput:" type="Int32" />
+                    <Field name="Upper Fence" source="Formula: [Q3] + (1.5 * [iqr])" type="Double" />
+                    <Field name="Lower Fence" source="Formula: [Q1] - (1.5 * iqr)" type="Double" />
+                    <Field name="Mean" source="Summarize: Avg - X_IQR_DATA" type="Double" />
+                    <Field name="Lower Limit 1" source="Formula: [Avg_x_IQR_DATA] - [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Upper Limit 1" source="Formula: [Avg_x_IQR_DATA] + [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Lower Limit 2" source="Formula: [Avg_x_IQR_DATA] - 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Upper Limit 2" source="Formula: [Avg_x_IQR_DATA] + 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="IQR Outlier Ind" source="Formula: [Value] &gt; [Upper Fence] OR &#xA;[Value] &lt; [Lower Fence]" type="Bool" />
+                    <Field name="StdDev1 Outlier" source="Formula: [Value] &gt; [Upper Limit 1] or &#xA;[Value] &lt; [Lower Limit 1]" type="Bool" />
+                    <Field name="StdDev2 Outlier" source="Formula: [Value] &gt; [Upper Limit 2] or &#xA;[Value] &lt; [Lower Limit 2]" type="Bool" />
+                  </RecordInfo>
+                  <SortInfo>
+                    <Field field="Name" order="" />
+                  </SortInfo>
+                </MetaInfo>
+              </Properties>
+              <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDetour" />
+            </Node>
+            <Node ToolID="107">
+              <GuiSettings Plugin="AlteryxBasePluginsGui.DetourEnd.DetourEnd">
+                <Position x="2118" y="893.9999" />
+              </GuiSettings>
+              <Properties>
+                <Configuration />
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText />
+                  <Left value="False" />
+                </Annotation>
+                <MetaInfo connection="Output">
+                  <RecordInfo>
+                    <Field name="WRecordID" source="RecordID: Starting Value=1" type="Int32" />
+                    <Field name="Name" size="255" source="Transpose:" type="V_String" />
+                    <Field name="Value" source="Formula: IF     [Value]&lt;[Lower Fence] THEN [Lower Limit 1] &#xA;ELSEIF [Value]&gt;[Upper Fence] THEN [Upper Limit 1]&#xA;ELSE   [Value]&#xA;ENDIF" type="Double" />
+                    <Field name="Upper Fence" source="Formula: [Q3] + (1.5 * [iqr])" type="Double" />
+                    <Field name="Lower Fence" source="Formula: [Q1] - (1.5 * iqr)" type="Double" />
+                    <Field name="Mean" source="Summarize: Avg - X_IQR_DATA" type="Double" />
+                    <Field name="Lower Limit 1" source="Formula: [Avg_x_IQR_DATA] - [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Upper Limit 1" source="Formula: [Avg_x_IQR_DATA] + [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Lower Limit 2" source="Formula: [Avg_x_IQR_DATA] - 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="Upper Limit 2" source="Formula: [Avg_x_IQR_DATA] + 2 * [StdDev_x_IQR_DATA]" type="Double" />
+                    <Field name="IQR Outlier Ind" source="Formula: [Value] &gt; [Upper Fence] OR &#xA;[Value] &lt; [Lower Fence]" type="Bool" />
+                    <Field name="StdDev1 Outlier" source="Formula: [Value] &gt; [Upper Limit 1] or &#xA;[Value] &lt; [Lower Limit 1]" type="Bool" />
+                    <Field name="StdDev2 Outlier" source="Formula: [Value] &gt; [Upper Limit 2] or &#xA;[Value] &lt; [Lower Limit 2]" type="Bool" />
+                  </RecordInfo>
+                </MetaInfo>
+              </Properties>
+              <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDetourEnd" />
+            </Node>
+            <Node ToolID="123">
+              <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+                <Position x="1974" y="558" />
+              </GuiSettings>
+              <Properties>
+                <Configuration>
+                  <SummarizeFields>
+                    <SummarizeField field="WRecordID" action="GroupBy" rename="WRecordID" />
+                    <SummarizeField field="IQR Outlier Ind" action="Max" rename="IQR Outlier Ind" />
+                    <SummarizeField field="StdDev 1 Outlier Ind" action="Max" rename="StdDev 1 Outlier Ind" />
+                    <SummarizeField field="StdDev 2 Outlier Ind" action="Max" rename="StdDev 2 Outlier Ind" />
+                  </SummarizeFields>
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText />
+                  <Left value="False" />
+                </Annotation>
+                <MetaInfo connection="Output">
+                  <RecordInfo>
+                    <Field name="WRecordID" source="Summarize: GroupBy - WRecordID" type="Int32" />
+                    <Field name="IQR Outlier Ind" source="Formula: toNumber([Value]) &gt; [Upper Fence] OR &#xA;toNumber([Value]) &lt; [Lower Fence]" type="Bool" />
+                    <Field name="StdDev 1 Outlier Ind" source="Formula: toNumber([Value]) &gt; [Upper Limit 1] or &#xA;toNumber([Value]) &lt; [Lower Limit 1]" type="Bool" />
+                    <Field name="StdDev 2 Outlier Ind" source="Formula: toNumber([Value]) &gt; [Upper Limit 2] or &#xA;toNumber([Value]) &lt; [Lower Limit 2]" type="Bool" />
+                  </RecordInfo>
+                  <SortInfo>
+                    <Field field="WRecordID" order="Asc" />
+                  </SortInfo>
+                </MetaInfo>
+              </Properties>
+              <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+            </Node>
+          </ChildNodes>
+        </Node>
+      </ChildNodes>
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection name="#1">
+      <Origin ToolID="79" Connection="Question" />
+      <Destination ToolID="80" Connection="Question" />
+    </Connection>
+    <Connection name="#2">
+      <Origin ToolID="80" Connection="Action" />
+      <Destination ToolID="32" Connection="Action" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="74" Connection="Output" />
+      <Destination ToolID="32" Connection="Input" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="84" Connection="Question" />
+      <Destination ToolID="87" Connection="Question" />
+    </Connection>
+    <Connection name="#2" Wireless="True">
+      <Origin ToolID="87" Connection="Action" />
+      <Destination ToolID="21" Connection="Action" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="20" Connection="Output" />
+      <Destination ToolID="21" Connection="Input" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="89" Connection="Question" />
+      <Destination ToolID="90" Connection="Question" />
+    </Connection>
+    <Connection name="#2" Wireless="True">
+      <Origin ToolID="90" Connection="Action" />
+      <Destination ToolID="24" Connection="Action" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="22" Connection="Output" />
+      <Destination ToolID="24" Connection="Input" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="91" Connection="Question" />
+      <Destination ToolID="98" Connection="Question" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="91" Connection="Question" />
+      <Destination ToolID="105" Connection="Question" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="91" Connection="Question" />
+      <Destination ToolID="106" Connection="Question" />
+    </Connection>
+    <Connection name="#2" Wireless="True">
+      <Origin ToolID="98" Connection="Action" />
+      <Destination ToolID="92" Connection="Action" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="24" Connection="Right" />
+      <Destination ToolID="92" Connection="Input" />
+    </Connection>
+    <Connection name="#2" Wireless="True">
+      <Origin ToolID="105" Connection="Action" />
+      <Destination ToolID="104" Connection="Action" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="92" Connection="Right" />
+      <Destination ToolID="104" Connection="Input" />
+    </Connection>
+    <Connection name="#2" Wireless="True">
+      <Origin ToolID="106" Connection="Action" />
+      <Destination ToolID="100" Connection="Action" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="101" Connection="Output" />
+      <Destination ToolID="100" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="74" Connection="Output" />
+      <Destination ToolID="49" Connection="Input" />
+    </Connection>
+    <Connection Wireless="True">
+      <Origin ToolID="74" Connection="Question" />
+      <Destination ToolID="79" Connection="Question Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="45" Connection="Join" />
+      <Destination ToolID="76" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="49" Connection="Output" />
+      <Destination ToolID="45" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="46" Connection="Output" />
+      <Destination ToolID="45" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="Output" />
+      <Destination ToolID="5" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="Output" />
+      <Destination ToolID="17" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="16" Connection="Output" />
+      <Destination ToolID="17" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Output" />
+      <Destination ToolID="108" Connection="Control" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="19" Connection="Output" />
+      <Destination ToolID="108" Connection="Input Data" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="14" Connection="Output" />
+      <Destination ToolID="15" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="15" Connection="Output" />
+      <Destination ToolID="16" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="16" Connection="Output" />
+      <Destination ToolID="75" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="19" Connection="Output" />
+      <Destination ToolID="4" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="32" Connection="Output" />
+      <Destination ToolID="19" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="32" Connection="Output" />
+      <Destination ToolID="28" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="17" Connection="Join" />
+      <Destination ToolID="20" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="20" Connection="Output" />
+      <Destination ToolID="57" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="20" Connection="Output" />
+      <Destination ToolID="63" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="108" Connection="Outlier Limits" />
+      <Destination ToolID="14" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="56" Connection="Output" />
+      <Destination ToolID="58" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="62" Connection="Unique" />
+      <Destination ToolID="58" Connection="Source" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="57" Connection="Output" />
+      <Destination ToolID="61" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="58" Connection="Output" />
+      <Destination ToolID="59" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="59" Connection="Output" />
+      <Destination ToolID="65" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="59" Connection="Output" />
+      <Destination ToolID="66" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="61" Connection="Output" />
+      <Destination ToolID="62" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="63" Connection="Output" />
+      <Destination ToolID="64" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="64" Connection="Output" />
+      <Destination ToolID="56" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="65" Connection="Output" />
+      <Destination ToolID="67" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="66" Connection="Output" />
+      <Destination ToolID="67" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="67" Connection="Join" />
+      <Destination ToolID="69" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="69" Connection="Output" />
+      <Destination ToolID="70" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="69" Connection="Output" />
+      <Destination ToolID="77" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="21" Connection="Left" />
+      <Destination ToolID="22" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="23" Connection="True" />
+      <Destination ToolID="22" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="21" Connection="Right" />
+      <Destination ToolID="23" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="24" Connection="Left" />
+      <Destination ToolID="47" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="31" Connection="Output" />
+      <Destination ToolID="46" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="123" Connection="Output" />
+      <Destination ToolID="46" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="47" Connection="Output" />
+      <Destination ToolID="123" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="26" Connection="Output" />
+      <Destination ToolID="41" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="34" Connection="Output" />
+      <Destination ToolID="26" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="41" Connection="Output" />
+      <Destination ToolID="93" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="107" Connection="Output" />
+      <Destination ToolID="93" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="27" Connection="Output" />
+      <Destination ToolID="31" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="44" Connection="Output" />
+      <Destination ToolID="31" Connection="Source" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="40" Connection="Output" />
+      <Destination ToolID="43" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="43" Connection="Output" />
+      <Destination ToolID="27" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="28" Connection="Output" />
+      <Destination ToolID="29" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="29" Connection="Output" />
+      <Destination ToolID="35" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="35" Connection="Output" />
+      <Destination ToolID="44" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="35" Connection="Output" />
+      <Destination ToolID="40" Connection="Source" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="93" Connection="Output" />
+      <Destination ToolID="40" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="92" Connection="Left" />
+      <Destination ToolID="34" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="94" Connection="Output" />
+      <Destination ToolID="96" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="95" Connection="Output" />
+      <Destination ToolID="94" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="96" Connection="Output" />
+      <Destination ToolID="107" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="102" Connection="Output" />
+      <Destination ToolID="107" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="100" Connection="Output" />
+      <Destination ToolID="102" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="104" Connection="Left" />
+      <Destination ToolID="95" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="104" Connection="Right" />
+      <Destination ToolID="101" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="False" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <Constants>
+      <Constant>
+        <Namespace>Question</Namespace>
+        <Name>List Box (79)</Name>
+        <Value />
+        <IsNumeric value="False" />
+      </Constant>
+      <Constant>
+        <Namespace>Question</Namespace>
+        <Name>Radio Button (84)</Name>
+        <Value />
+        <IsNumeric value="False" />
+      </Constant>
+      <Constant>
+        <Namespace>Question</Namespace>
+        <Name>Radio Button (99)</Name>
+        <Value />
+        <IsNumeric value="False" />
+      </Constant>
+      <Constant>
+        <Namespace>Question</Namespace>
+        <Name>Drop Down (91)</Name>
+        <Value />
+        <IsNumeric value="False" />
+      </Constant>
+      <Constant>
+        <Namespace>Question</Namespace>
+        <Name>Radio Button (89)</Name>
+        <Value />
+        <IsNumeric value="False" />
+      </Constant>
+      <Constant>
+        <Namespace>Question</Namespace>
+        <Name>Radio Button (85)</Name>
+        <Value />
+        <IsNumeric value="False" />
+      </Constant>
+    </Constants>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>CReW Modify Outliers</Name>
+      <Description>Identify, remove or modify records where the variability of incoming data exceeds statistical limits.  These outlier records can be identified using Interquartile ranges or by Standard Deviation calculations.</Description>
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName>Macro</CategoryName>
+      <SearchTags>Macro, Outlier, MarqueeCrew, Udacity</SearchTags>
+      <Author>Mark Frisch</Author>
+      <Company>Marquee Crew, Inc</Company>
+      <Copyright>Marquee Crew 2018</Copyright>
+      <DescriptionLink actual="https://marqueecrew.wordpress.com/2018/02/11/outlier-macro/" displayed="https://marqueecrew.wordpress.com/2018/02/11/outlier-macro/" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+    <RuntimeProperties>
+      <Actions>
+        <NoCondition>
+          <Type>NoCondition</Type>
+          <Description>(Always Run)</Description>
+          <True>
+            <Action>
+              <Type>UpdateSelect</Type>
+              <Description />
+              <ToolId value="80" />
+              <Variable />
+              <SelectTool value="-1" />
+            </Action>
+            <Action>
+              <Type>Dynamic</Type>
+              <Description />
+              <ToolId value="87" />
+              <Expression>{{INPUT}}</Expression>
+              <Destination>21/DetourRight/@value</Destination>
+              <Mapping>Update Detour Direction from Question</Mapping>
+              <Mode>Expression</Mode>
+              <DynamicConfiguration />
+              <DefaultConfiguration value="True" />
+            </Action>
+            <Action>
+              <Type>Dynamic</Type>
+              <Description />
+              <ToolId value="90" />
+              <Expression>{{INPUT}}</Expression>
+              <Destination>24/DetourRight/@value</Destination>
+              <Mapping>Update Detour Direction from Question</Mapping>
+              <Mode>Expression</Mode>
+              <DynamicConfiguration />
+              <DefaultConfiguration value="True" />
+            </Action>
+            <Action>
+              <Type>UpdateValueFormula</Type>
+              <Description />
+              <ToolId value="98" />
+              <Expression>IIF([#1]='IQR',"False","True")</Expression>
+              <Destination>92/DetourRight/@value</Destination>
+              <Mode>Expression</Mode>
+            </Action>
+            <Action>
+              <Type>UpdateValueFormula</Type>
+              <Description />
+              <ToolId value="105" />
+              <Expression>IIF(!Contains([#1],"Mean"),1,0)</Expression>
+              <Destination>104/DetourRight/@value</Destination>
+              <Mode>Expression</Mode>
+            </Action>
+            <Action>
+              <Type>UpdateValueFormula</Type>
+              <Description />
+              <ToolId value="106" />
+              <Expression>IIF(Contains([#1],"2"),replace([Destination],"1]","2]"),[Destination])</Expression>
+              <Destination>100/FormulaFields/FormulaField/@expression</Destination>
+              <Mode>Expression</Mode>
+            </Action>
+          </True>
+        </NoCondition>
+      </Actions>
+      <Questions>
+        <Question>
+          <Type>Tab</Type>
+          <Description>Macro Configuration</Description>
+          <Name>Tab (73)</Name>
+          <ToolId value="73" />
+          <Questions>
+            <Question>
+              <Type>MacroInput</Type>
+              <Description>Macro Input (74)</Description>
+              <Name>Macro Input (74)</Name>
+              <ToolId value="74" />
+            </Question>
+            <Question>
+              <Type>MacroOutput</Type>
+              <Description>Macro Output (75)</Description>
+              <Name>Macro Output (75)</Name>
+              <ToolId value="75" />
+            </Question>
+            <Question>
+              <Type>MacroOutput</Type>
+              <Description>Macro Output (76)</Description>
+              <Name>Macro Output (76)</Name>
+              <ToolId value="76" />
+            </Question>
+            <Question>
+              <Type>MacroOutput</Type>
+              <Description>Macro Output (77)</Description>
+              <Name>Macro Output (77)</Name>
+              <ToolId value="77" />
+            </Question>
+            <Question>
+              <Type>ListBox</Type>
+              <Description>Potential Predictor Variables (Numeric)</Description>
+              <Name>List Box (79)</Name>
+              <ToolId value="79" />
+              <Multiple value="True" />
+              <Multiple_Custom value="False" />
+              <Multiple_Default value="False" />
+              <Mode>MacroField</Mode>
+              <MacroField_InputTool value="0" />
+              <Field_IncludeNone value="False" />
+              <MacroField_FilterTypes>Byte,Int16,Int32,Int64,FixedDecimal,Float,Double</MacroField_FilterTypes>
+            </Question>
+            <Question>
+              <Type>LabelGroup</Type>
+              <Description>Filter Records</Description>
+              <Name>LabelGroup (86)</Name>
+              <ToolId value="86" />
+              <Questions>
+                <Question>
+                  <Type>RadioGroup</Type>
+                  <Description>Remove Outliers</Description>
+                  <Name>Radio Button (84)</Name>
+                  <ToolId value="84" />
+                  <Questions>
+                    <Question>
+                      <Type>Label</Type>
+                      <Description>When you remove outliers, those records which contain an outlier will not be included in the 'D' output anchor.</Description>
+                      <Name>Label (120)</Name>
+                      <ToolId value="120" />
+                    </Question>
+                  </Questions>
+                  <Default value="False" />
+                  <Collapsable value="False" />
+                </Question>
+                <Question>
+                  <Type>RadioGroup</Type>
+                  <Description>Keep Outliers</Description>
+                  <Name>Radio Button (85)</Name>
+                  <ToolId value="85" />
+                  <Questions>
+                    <Question>
+                      <Type>LabelGroup</Type>
+                      <Description>Modify Outlier Values</Description>
+                      <Name>LabelGroup (88)</Name>
+                      <ToolId value="88" />
+                      <Questions>
+                        <Question>
+                          <Type>RadioGroup</Type>
+                          <Description>Don't Update Values</Description>
+                          <Name>Radio Button (99)</Name>
+                          <ToolId value="99" />
+                          <Questions />
+                          <Default value="True" />
+                          <Collapsable value="False" />
+                        </Question>
+                        <Question>
+                          <Type>Label</Type>
+                          <Description>If you keep outliers and do not modify their values, an Indictor field will be added that is True for any record where one (1) or more fields are outside of the normal boundaries for any selected element.</Description>
+                          <Name>Label (115)</Name>
+                          <ToolId value="115" />
+                        </Question>
+                        <Question>
+                          <Type>RadioGroup</Type>
+                          <Description>Update Values</Description>
+                          <Name>Radio Button (89)</Name>
+                          <ToolId value="89" />
+                          <Questions>
+                            <Question>
+                              <Type>ListBox</Type>
+                              <Description>Limit by Methodology</Description>
+                              <Name>Drop Down (91)</Name>
+                              <ToolId value="91" />
+                              <Multiple value="False" />
+                              <Default>IQR</Default>
+                              <Mode>Manual</Mode>
+                              <Manual_Values><![CDATA[IQR
+1 Standard Deviation
+2 Standard Deviations
+Mean
+]]></Manual_Values>
+                            </Question>
+                            <Question>
+                              <Type>LabelGroup</Type>
+                              <Description>Methodologies</Description>
+                              <Name>LabelGroup (117)</Name>
+                              <ToolId value="117" />
+                              <Questions>
+                                <Question>
+                                  <Type>Label</Type>
+                                  <Description>IQR: Interquartile range (1.5) is used to identify the lower and upper fences for identification of Outliers</Description>
+                                  <Name>Label (116)</Name>
+                                  <ToolId value="116" />
+                                </Question>
+                                <Question>
+                                  <Type>Label</Type>
+                                  <Description>Standard Deviation:  Either one (1) or two (2) standard deviations can be used to establish lower and upper limits for  modification of Outlier data elements</Description>
+                                  <Name>Label (118)</Name>
+                                  <ToolId value="118" />
+                                </Question>
+                                <Question>
+                                  <Type>Label</Type>
+                                  <Description>Mean:  Using the IQR methodology, the mean value is used for substitution if the element value is outside of the Lower or Upper Fence value</Description>
+                                  <Name>Label (119)</Name>
+                                  <ToolId value="119" />
+                                </Question>
+                              </Questions>
+                            </Question>
+                          </Questions>
+                          <Default value="False" />
+                          <Collapsable value="True" />
+                        </Question>
+                      </Questions>
+                    </Question>
+                  </Questions>
+                  <Default value="False" />
+                  <Collapsable value="False" />
+                </Question>
+              </Questions>
+            </Question>
+          </Questions>
+        </Question>
+        <Question>
+          <Type>Tab</Type>
+          <Description>Output Explanation</Description>
+          <Name>Tab (121)</Name>
+          <ToolId value="121" />
+          <Questions>
+            <Question>
+              <Type>LabelGroup</Type>
+              <Description>Macro Description</Description>
+              <Name>LabelGroup (109)</Name>
+              <ToolId value="109" />
+              <Questions>
+                <Question>
+                  <Type>LabelGroup</Type>
+                  <Description>Output Anchors</Description>
+                  <Name>LabelGroup (111)</Name>
+                  <ToolId value="111" />
+                  <Questions>
+                    <Question>
+                      <Type>Label</Type>
+                      <Description>M (Output):  Metrics used in calcutions of Outliers for each column selected</Description>
+                      <Name>Label (110)</Name>
+                      <ToolId value="110" />
+                    </Question>
+                    <Question>
+                      <Type>Label</Type>
+                      <Description>D (Output):  Data Output.  If you keep outliers they are contained in this anchor.  If you Filter the outliers those records will not be output.</Description>
+                      <Name>Label (112)</Name>
+                      <ToolId value="112" />
+                    </Question>
+                    <Question>
+                      <Type>Label</Type>
+                      <Description>F (Output):  Field Summary provides counts and percentages of Outliers per each selected field.</Description>
+                      <Name>Label (113)</Name>
+                      <ToolId value="113" />
+                    </Question>
+                  </Questions>
+                </Question>
+              </Questions>
+            </Question>
+          </Questions>
+        </Question>
+      </Questions>
+      <ModuleType>Macro</ModuleType>
+      <MacroCustomHelp value="True" />
+      <MacroCustomHelpLink>https://marqueecrew.wordpress.com/2018/02/11/outlier-macro/</MacroCustomHelpLink>
+      <MacroDynamicOutputFields value="False" />
+      <MacroImage>iVBORw0KGgoAAAANSUhEUgAAAKsAAACrCAYAAAAZ6GwZAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAOwgAADsIBFShKgAAAFUtJREFUeF7tnWdsXNexxx0E70Me/L4kMeLEiRIYQZzYSIH9bDgIIgdBAiSAE8QBUhA8y7FE9UJJpMhlEVUtySqWFMlq7G13WZZi71XsyyZ2clnEJomqVq805t058hpLcnb3Lnfvlrvz4QcbmnuWF9j/zj0zZ2buc7tOFIE+v4lhvBrU6XP6vCa4fOkSw3g1qFMWK+MTzBLrypUrYfHixfMuYhhvYJZYlyxZAq+//vq8ixjGG2CxMj4Di5XxGVisjM/AYmV8BhYr4zOwWBm4fPEiTI+MwJW+PrjS2yuYHhqCy1NT9PUegsXqp0wPD8ONzEy4GxgIj3/9a3j66qsws2gRzLz0Esx897vw9Ec/gsdvvQX3P/gAPjt5Eq709AhRU5/lLlisfsaV7m64GxwMT19+GZ7++Mdwb9UquJmQANdqap551v5+wdWmJriRkQF3wsLg8a9+BZ9/61vw4J//hGu1tR4TLYvVT5iemIBbBw8Kr/nwL3+B64WFDj3mr7a0wL0NG+Dzb34T7i1fDtOSoKnrlITF6gdMm0zw4K9/hSc//SncyM0lr5HLlY4OePjee2LbgN6YukYpWKwq52pDAzz52c+EwKYHB8lrHEbaBtzZsUNsDW4mJdHXKACLVcXg/vTpD38Id0NC4LK0DaCucYabqakw8+KLcMNgIO2uhsWqUqbHx+HRO+/A/Q8/hMuTk+Q1rgAzBTM/+IHw4JTdlbBY1Yj0mL63bh08WrwYpkdH6WtcBW4JJM/95K23FP9bLFYVcq20FD5/4QW42tZG2l3N9IULIleL+1jK7ipYrGpjagoe/e53cCcqirYrxPX8fHGogKdflN0VsFhVxrXKSpiRonRxXErYFUPaFz/84x/hzs6dtN0FsFhVBh6f3v/3v0mbPUZGx6GtywSdvcMwNel4XcDNxER48otfkDZXwGJVExMT8OSNN0RKibRbod90AQITS+G1A2nw9Y+18OJ+LSw+bID44maYmpJ/tIrHtFhboNRemcWqIrDY5PNvfMOho9DewVF4+6gBvnIsDZ47PpuvHdFDZFoVXJQr2IsX4dFvfgOfxcbSdidhsaqI60VF8PSVV0gbBYrw7yfz5onUkq8d1oO2rJVcT3Fv5Uq4q9GQNmdhsaqImzEx8Oj3vydtFMbOQfifvSmkSC1591g2uZ4C01dYVkjZnIXFqiJuHT4sKqooG4W2yAhfPaIjBWrJy7vk74Fv7d8PD/72N9LmLCxWFXHr2DF4+Kc/kTaKrIp2+K9P7Iv11b06cj3F7b174cE//kHanIXFqiJuJieLI1bKRjE0MgYv7UklBfolUuC1Nr6YXE9xJyIC7gcEkDZnYbGqiGt1dTDzne+QNmscyqqFrx7V00KV+N5BPbR2mci1FPf/9S+4vXs3aXMWFquKwHrVmW9/G642NpJ2a4RpK+C/98/2sF85podXDqRBcWM3uYZkfBye/PznoreLtDsJi1VNYF3Ab38Ltz75hLZb4ZJEjbEXNMnl8PcTefB/p/LheFYdmIbHyOutcbW19Vme1yTfEzsCi1VlYJ8VCpayKQ3WBTx8913S5gpYrCoDT7FmXnjB7f1RWDjz9Cc/cfio1xFYrCrk7saN8PDPf3Zry/Tt/fvh8dtvK9qVwGJVIdMDA6K29GZKCml3NbhXxTkESvdisVhVCnad4owApbcDGEw9fucduLdmjeKenMWqYu5ERsKT116DK11dpN1ZsCkR86oP//AHMSuLusaVsFjVjLR/vP/++6LG9WpdHX3NAhGDMyShPpY+W6kfw1xYrCoHvR/OtpqR9pQ309Jc8qi+ajSK+VfYxuIuoSIsVn9AEuhnMTEw8/3vw/1ly+Bqezt9nR1w8uDtPXvE52D7DHa1UtcpBYvVj8DhajgJEAMvHK52vbjY7l4TPTN60jvbtj0bg/nLX8J1nJflxrSYGRarH3KtulpE75jewvFCWFZ4NyhI5ErNYHCGwsazfuyWffDee3DDRduIhcJi9WekAOxaVRXcOnJEjLPEOlQz91asgNv79sGN7Gzx+CfXuxkWK+MzsFgZn4HFyvgMLFbGZ2CxMj4Di5XxGVisjM/AYmW8luamJsizeLsMi5XxOiYnJsCQmQmFhYVw0eJdXSxWxqvo6uyEhIQE6CKquVisjFeAHrQgPx8MBoPwrNQ1LFbG45hMJkiIj4cWo5G0m2GxMh6lqrISUlNSYGJ8nLRbwmJlPMKF0VFITk6Gmupq0k7BYmXcDqak8LE/7OAbZVisjNuYmpyE9LQ0KMLXxxN2e7BYGbfQef48xMTEQJ8TL3VjsTKKk52dDVkGA1xysiWGxcooxuDAgPCmHQvspp0Li5VRhLLSUtCmplpN8C8EFivjUkZHRiApMRHqamtJuzOwWBmXgQJFoaJgKbuzsFgZpxkfG4O0tDTx6Hc2iLIFi5Vxiva2NkhMSHAqJSUXFiuzIDDBn5OdDbk5OeL/qWtcDYuVcRj0onhcil6VsisFi5WRDe5HS4qLxZGpnCopV8NiZWQxMjws9qaNDQ2k3R2wWBm7mFNSWNZH2d0Fi5WxCqakdDodlJeVkXZ3w2JlSNpaWyE+Lg4GBgZIuydgsTKzwMY9bNrDlJSSCf6FwGJlvgRTUlglhe3QlN3TsFgZAVbv45Gp5VAJb4PF6udg0UlcbKzoi6Ls3gSL1Y+prqqCpKQkEfVTdm+DxeqHoDhTU1NFz763BVG2YLH6GcbmZjFLyjQ4SNq9GRarn/DlZL6CAq8OomzBYvUDxGS++HivTUnJhcWqYnA/ipP5sA3alY17noLFqlJwT4reFPeolN0XYbGqDPSmYjKfFO37SkpKLixWFYElfDg+stqByXy+BItVJZgn8w2ZTKRdDbBYfRwMnDLS0xc8mc+XYLH6MJiKio2Nhd6eHtKuNlisPgq2QWPdqa8m+BcCi9XHwD1p9JkzLpvM50uwWH0IHM+TIkX77hoq4W2wWH0ATElhG7QSk/l8CRarl1NXV6foZD5fgsXqpeDEkzS9XvHJfL4Ei9ULaWtrEzWn/X19pN1f8Quxjo5OQHFlBySknoPktDo419gDU1Pe5608MZnPl1C9WKtruyE8JAM0y7SwdZkOIiVCArSwZ28+9PV7dhyOJebJfP6YkpKLqsVa19QLmjU62B6gn8c2/G9EFgwNe74yqbSkRLRBe2Iyny+hWrFiUBIRbiCFagYFezK2klzvDsRkPinSb6ivJ+3MbFQrVmP7AGxelkKK1JLNG/XkermMj09CrbQHTs9ugtziVugbsL+1wB8S5kyTk5I4JeUAqhVrXlkbhEv7U0qglqz4IIFcL4f65l7YKnnv4KUpECH9LdwXb16lhTPxVTA5SZ/ZY0G0XqcTKSnKzlhHtWKtaeiBkGWppEAtWbcqhVxvj8aWPghbl0Z+5tYAHRw9XjIvP4qT+TCIGujvn/XvjDxUK9apyYuwab19z3rwcBG53h5RUWfJzzMTsjQVKuu6xLVYGYVNe7m5uZzgdwLFxdrZMwxx2nNwQBLF4WMlkJHXDGNjjuUQL13EL/yi4BJht0Z2QQuEL7cuWM06PbR1Oj7soa3TBEHL7Xvtw5J37evrE5P58K3Q1Gcx8lFUrLrMBtgkfakiTfQFmOsMDUqH5lb7j0L0QrklrbBzVw5sWJ0qwP/Hf5ProVLT6iEoYLaw8H62bNCLwIhaY4+yc50QKu1PLT+TYt2GaHFk6k81p0qimFgNeUYID7D+hYYFpkled4hci+AJ04nTFVKQNP8z8N9OSrYpK0HMXFrPD4oU1Ud782Df/nxI0Nc6lV81dgxAsAzPeuhoMbmeWRiKiBXTORvX2PY86N1wW0CtR7QZ9RAhBSrUWgRtqemeyU+iV7eXww2VgruSan70uxJFxFpaIz0mpQCD+hIt2bA2lVx/YWwCQjenk2ss0UjbiQsXPDNppKauG0JX0T+mKOmH9PGBAg6mXIwiYj1b1CLO4Kkv0pLVAUnk+paOwXn7TIqNS5PhvI2thNKUV3dCWFCG8KJ4P5iy2izd938+LYUx6elCrWEWjiJixQh744fJ88Q1l/CwTHI97jHxS6fWWLJxWYpHxYqVUSmpaRCTlAfx0j5Ym9UAHV0mkb2grmecQxGx4uNv584cUmBmcM+pN9Bvq8M9r2aL/W0AVlM5mgZzFdgGHR8fD91dz3KpjPIoIlYEI33NpvRZaSsz+Lg8eKjQ6pEkkpnTbDNHGi59Rka2+4eO4Q9RTZP5fAnFxIp09QzDxwcLIHiNDoI+TIEg6bEdKgkYi6DRe1JrzGDqKjquCjTL52cVNJKI0ebuAmrzZL4Wo5G0M8qiqFjN9A6MQmNrPzS3D8DIqHxvdFHyYmVSELMPBb85DYI3pcE+KcrGwMadkTb+raqqKjGZb+zCBfIaRnncIlZfBkv4UKT4ZhPKzrgPVYl1YmIKBofGYGhk3CUROU7mw359k4on8/kSqhAr7n+T9HUQEZoJgStSYPMaLez+KBeq67vJ6+2BgVNmRoZfTObzJXxerHjatX9/AXkIoVmhBUOOYxkDrI6Ki4uDnu6FCZ1RDp8XK1blYypsrlDNBK/UihMxaq0lGETl5eaKlBRXSXknPi3WkdFxCF5Pi9SSY6fKyfVmhoeGIDo6WlTyU3bGO/AKsWJgZCgwwtETZaISKyWzHgZM9lNEmA4LltG6glX91HqkvKwMkpOTZXtT3Hboc5rgyPES6X5LIavQaDdnPBc8To5NqYFD/ymGT6MroLTmvENF5f6Kx8WKXaihwemz9pzbpMd68FodFJbaHviAa+UUvGzfnj1vLeZLcUSPI5P5Go19ELIpXVRVmT87Uvr/SI0BWmVsNfDELjaxWnQZWJ7shS3Tilpbb5hh4M14VKw9fSOgCaSb7pDwVTooqewg1yLokTWS0Km1ZlBY6MUs19XX1YmTKBwlafnvtsD2HM0G6/caEZQB/YO2Py8++ZwQN7Uexbt7V47DXtqf8JhY8bGHj3zqi7NEE5IBUzYe0RnZTaJOgFqLhGzQw8Dgsy0FTjzBNmicgOLoCZi9e8Ug70yC9YOD9i4TbFlt/T6RiAAtZOaq5yVrrsZjYsVqqWBJSNSXZskW6ZHZ0GK9XwubCGPiqyFkTg1BlESo5AlrG3rFde04mU/ypguZzIfeLjhw9n1RhG7JINcjWGEWIaNv66O9+eR6xoNiHR4Zh3XLksgvzBLNUi2USAEI9RlmsIagqq5b9DxFRBhEQBWTVC08KgZOcyfz4dSUJik4O989JNbO/by5YNZhrYx7Xb/a+gyCU3GV4gdErbMkMtJArmc86Vlleiv0rI2tC5tTap7M1/7FZL6W9kHYuy9fVIEFS4EZ5mAjI7KgvMb226Jle1Zpy0KtR/RZjWTz41z2SPdHrWc8KFYE0z9Uvasl4ZrMBZUClsyZzFff1Ath0raA+nualTrIzm+Z9xmW2LtXbDGPkSJ9ai3S0TVkd8+KYs7K5/JDa3hUrL39oxBmozEwbLUeyh3sEMUEf1JS0qzJfDhMOCIkk/wbZtDL2ko/dfUO28xcRG7J/DKQs0aythYirBSU4w9h7548zgbYwKNiRVAgkWEGkWs0ey4MRFAYRWXyB+tidG9tMl9eSZv4/LkCmcuJmIpZ6+bSJAV64VIQZX6c4/2K+47Mgrbz8vKsiSnnYMsqnfDE+BmYWgsN0IpuWM6z2kZRsaKAsIEuq8AI6TlNUN/cJ3Kjc6/DzAAK6kR0BRw/XS7GR9rLWVqCk/nML4ug7KdiMbix/QgW7Jh/eDAXDLZwLBHeJ54+5Ze2SffvWHtL23kTJOlq4dipMjgdXyVmYskJ9PwdxcSK0f6hI8WiSxU9EXpLbGvZvvUsGNsGyDULQc5kPhSEHLHu2JlDrme8A0XEivuu7duyrQYkEYHpTgsW01Bns7JEpZS9c/2iig4xO5W6FzN4r2dsBEiM51FErLHJNRBlZ8jF1qisBRdvYEoq1oHJfOMT0o8nKpu8DzNb1uqgWwqiqPWMd+ByseKwNI0UhFCCsAQHmxllFH/MBav3FzKZr73TBBHBmaS3D12tE02I1DrGe3C5WDFYknPag/vYQhtFKnPBKin0pk2NjaRdDhi0YW1r4FotLF+SAGuWJ8O+/QWieou6nvEuXC5WfOTamyCI4Hwo82Roe9TU1IggyhuGSmAzIs5nrazv5nlWbsblYsV9KA62oARqSdB6nd3RP3j6lJqSApWVnnv9j5kRSaRYebU+IEUMEsb3FQSuSoWYhGqYkH6g1BrGtbhcrIgoqLZxtIinONpMes6VGWNzM8THxcGQF7RB42COHVayG1gaeOBQIZk/ZlyLImJFSio6IGSNbt4XjKV8cYk1VpPgmJIyZGZCQUGBw0GUUjyrmLL+48N6Wpz0Ta1lXIdiYkVw1pX4oredha2RWaKEr7qu26pQ5U7mw0EWOUWtotg5PvWc2PvKHdnuKLhVkTPYWM7pF+MciorVEfLz84VHtRdEFRS3Qcj6Z9kE9HbihRoBWjFiU4k86aDpAqxfan/W7KYNOnI94zo8LlZHJvMVS1uLsBX04xi3G9vCsmDA5No3XeOxMU54of6mJZpQ67WsjGvwqFhx2JncyXwYwARvpIViBj3tSTuVU46CM7NwiiH198ygd49O4KNapfGIWLGET6vVOjSZr0Lal+Jb+yixWOLsi4MpsI4hdA399xDR2SrjBcOMc7hdrE1NTZCUmCge/5TdGjgEQ85LNfBUilrvLNW1XWKSt7npD7cdWMsaFW6AFj4BcwtuE6t5Ml9hYaHDbdBIvbEPgpbafyW7rT4oZ8Hi6My8ZlGHevxM+Re1rHwg4C7cIlaRkoqLc+plEdhyjf1YlEDNYII+USt/wgrjWygqVkzqu3IyH742PcTGi9J27cxhT6diFBMrNu7FREdDa4vtrlFHaZC2A/gqShzIhlE47iE3rnj2ojRsOaHWMOpAEbFWlJdDigOT+RwFi2Wa2vrhbEkL5Je3O9SvxfguLhUrNu5hgr/23DnSzjDO4DKxYp8+BlH86h1GKZwWK6aksM1kIZP5GMYRnBIrTuZDb7qQyXwM4ygLEit60OyzZ8V0PluzUxnGlTgsVmyDRm/a8cVkPoZxFw6J1TyZD6N+ys4wSiJLrCPDw6L4xHIyH8O4G7tiFZP5kpNhZM5kPoZxN1bFivlSvY3JfAzjbkix4mQ+fBs0p6QYb2KeWJ9//nlYtGgR/O8bb8Cbb77JMB5l965dtFhPfPopLHn/fYbxGs6cPk2LlWG8GRYr4zMIsW4/VgD6/CaG8Wq2HyuA/weGvLRbTNlGbQAAAABJRU5ErkJggg==</MacroImage>
+      <MacroInputs />
+      <MacroOutputs />
+      <Wiz_CustomHelp value="False" />
+      <Wiz_CustomGraphic value="False" />
+      <Wiz_ShowOutput value="True" />
+      <Wiz_OpenOutputTools>
+        <Tool ToolId="77" Selected="True" />
+        <Tool ToolId="74" Selected="True" />
+        <Tool ToolId="70" Selected="False" />
+        <Tool ToolId="76" Selected="True" />
+        <Tool ToolId="75" Selected="True" />
+        <Tool ToolId="108" Selected="True" />
+      </Wiz_OpenOutputTools>
+      <Wiz_OutputMessage />
+      <Wiz_NoOutputFilesMessage />
+      <Wiz_ChainRunWizard />
+    </RuntimeProperties>
+  </Properties>
+</AlteryxDocument>
